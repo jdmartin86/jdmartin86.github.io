@@ -3,12 +3,9 @@ layout: full-width
 title: About
 ---
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+I'm a PhD student researching decision making and artificial intelligence at [Stevens Institute of Technology](http://www.stevens.edu). I work as a member of the [Robust Field Autonomy Lab](http://personal.stevens.edu/~benglot/), which is advised by [Prof. Brendan Englot](https://web.stevens.edu/facultyprofile/?id=2043). During the three years preceeding my PhD, I took graduate courses at [Columbia University](https://www.columbia.edu) while also working at [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/), automating a full-scale helicopter. I studied physics as an undergraduate at the [University of Maryland](https://umdphysics.umd.edu). I also earned a second bachelor's degree in [Aerospace Engineering](https://aero.umd.edu). See my [CV](/2019-martin-cv.pdf) for more details.
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+### Research Interests
+I want to understand how we can design machines that are capable of learning and making intelligent decisions. I like to think about new decision processes that would help autonomous agents reason about their environment and task in better ways. Some other questions I find interesting are: How can machines learn as efficiently as humans through streams of reinforcement? What are the inductive pathways that make efficient learning possible? And how can those mechanisms be formalized and encoded into programs that solve meaningful problems?  
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts! 
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
-
-
+I believe the Reinforcement Learning paradigm provides a good framework from which many of these questions can be studied. In my career, I hope to address some of RL's fundamental limitations by expanding its scope to new settings and larger, more complex tasks. Specifically, I would like to understand what logic underlies reliable generalization between different but related tasks, in tasks that evolve slowly over time, in tasks that continue indefinitely, and in tasks which can only be attempted a few times, maybe even once. How can multiple agents learn in harmony or in competition? I'm motivated and inspired by the work of my peers in optimization, statistical machine learning, cognitive science, and mathematical psychology. Though I wouldn't claim RL is the only way to study decision making, I do believe that advances in RL will lead to more powerful AI systems and better theoretical paradigms from which others can understand human cognition. 

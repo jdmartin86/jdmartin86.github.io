@@ -1,32 +1,25 @@
 ---
-layout: post
+layout: full-width
 title: Research
 ---
-{% newthought 'In this first iteration'%} of the *Tufte-Jekyll* theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.
+# Publications & Posters
+Stochastically Dominant Distributional Reinforcement Learning,  
+**John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot,  
+*ArXiv* (2019)[[pdf](https://arxiv.org/abs/1905.07318)]
 
-## Pages and Posts
+Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation,  
+**John D. Martin**, Jinkun Wang, Brendan Englot,  
+*Conference on Robot Learning* (2018) [[pdf](http://proceedings.mlr.press/v87/martin18a/martin18a.pdf)]
 
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is. 
+Extending Model-based Policy Gradients for Robots in Heteroscedastic Environments,  
+**John D. Martin**, Brendan Englot,  
+*Conference on Robot Learning* (2017) [[pdf](http://proceedings.mlr.press/v78/martin17a/martin17a.pdf)]
 
-### Posts
+Distributed Gaussian Process Temporal Differences for Actor-critic Learning,  
+**John D. Martin**, Zheng Xing, Zhiyuan Yao, Ionut Florescu, Brendan Englot,  
+[*New York Academy of Sciences Machine Learning Symposium*](https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/?tab=description) (2018) [[poster](/publications/poster/2018-martin_xing_florescu_englot-nyas_mls_poster.pdf)]
 
-Conceptually, posts are for recurring pieces of similar content such as might be found in a typical blog entry. Post content all sits in a folder named ```_posts``` and files are created in this folder{% sidenote 1 'Yes, a page has essentially the same old shit as a post'%} that are names with a date pre-pended to the title of the post. For instance ```2105-02-20-this-is-a-post.md``` is a perfectly valid post filename.
-
-Posts will always have a section above the content itself consisting of YAML front matter, which is meta-data information about the post. Minimally, a post title must always be present for it to be processed properly.
-
-```
----
-Title: Some Title
----
-## Content
-
-Markdown formatted content *here*.
-```
-
-
-### Pages
-
-Pages are any HTML documents *or* Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this
-
-I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.
+Predicting Ocean Currents for Robot Navigation,  
+**John D. Martin**, Tixiao Shan, Brendan Englot,  
+*Stevens Graduate Research Conference* (2017) [[poster](/publications/poster/2017-martin_shan_englot-predicting_ocean_currents_for_robot_navigation.pdf)]
 
