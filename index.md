@@ -3,6 +3,7 @@ layout: full-width
 title: About
 # Note that this index page uses a full-width layout!
 ---
+<h1 class="content-listing-header sans">John D. Martin</h1>
 I'm a PhD student researching decision making and artificial intelligence at [Stevens Institute of Technology](http://www.stevens.edu). I work as a member of the [Robust Field Autonomy Lab](http://personal.stevens.edu/~benglot/), which is advised by [Prof. Brendan Englot](https://web.stevens.edu/facultyprofile/?id=2043). During the three years preceeding my PhD, I took graduate courses at [Columbia University](https://www.columbia.edu) while also working at [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/), automating a full-scale helicopter. I studied physics as an undergraduate at the [University of Maryland](https://umdphysics.umd.edu). I also earned a second bachelor's degree in [Aerospace Engineering](https://aero.umd.edu). See my [CV](/2019-martin-cv.pdf) for more details.
 
 ### Research Interests
