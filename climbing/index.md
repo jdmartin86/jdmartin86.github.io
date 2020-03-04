@@ -3,7 +3,9 @@ layout: full-width
 title: Climbing
 ---
 # Climbing
-I spend a good deal of my free time in pursuit of alpine climbing objectives. Here I recount some of my more noteable trips, and I provide information that others looking to repeat the climbs will hopefully find useful.
+{% fullwidth "assets/img/jm_shuksan.png" "Circumventing a yawning crevass atop of the Price Glacier." %}
+
+I spend a good deal of my free time in pursuit of alpine climbing objectives. Here I recount some of my more noteable trips. My hope is that the information can be of some use to those looking to repeat the climbs. 
 
 ## Trip Reports
  <ul class="content-listing ">
