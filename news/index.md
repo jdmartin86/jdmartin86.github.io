@@ -3,7 +3,8 @@ layout: full-width
 title: News
 ---
 
-**January 27, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with Joseph Modayil. There I plan to study catastrophic intereference and methods for improving continual reinforcement learning.
+# News & Activities
+**January 27, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with [Joseph Modayil](http://josephmodayil.com). There I plan to study catastrophic intereference and methods for improving continual reinforcement learning.
 
 **November 4, 2019:** Visiting MIT to connect with [Tixiao Shan](https://tixiaoshan.github.io) at [CSAIL](https://www.csail.mit.edu) and learn about the [Roboat project](http://roboat.org). I'm giving a short talk to the group about my recent work. 
 

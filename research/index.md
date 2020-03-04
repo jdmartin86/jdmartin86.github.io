@@ -3,6 +3,11 @@ layout: full-width
 title: Research
 ---
 # Publications & Posters
+
+On Catastrophic Interference in Atari 2600 Games,  
+William Fedus and Dibya Ghosh, **John D. Martin**, Marc G. Bellemare, Yoshua Bengio, Hugo Larochelle,  
+*ArXiv* (2020)[[pdf](https://arxiv.org/abs/2002.12499)], [[code](https://github.com/google-research/google-research/tree/master/memento)], [[slides](https://slideslive.com/38924023/memento-further-progress-through-forgetting)]   
+
 Stochastically Dominant Distributional Reinforcement Learning,  
 **John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot,  
 *ArXiv* (2019)[[pdf](https://arxiv.org/abs/1905.07318)]
