@@ -3,7 +3,7 @@ layout: full-width
 title: Climbing
 ---
 # Climbing
-{% fullwidth "assets/img/jm_shuksan.png" "Circumventing a yawning crevass atop of the Price Glacier." %}
+{% fullwidth "assets/img/jm_shuksan.png" "Circumventing a yawning crevasse atop of the Price Glacier." %}
 
 I spend a good deal of my free time in pursuit of alpine climbing objectives. Here I recount some of my more noteable trips. My hope is that the information can be of some use to those looking to repeat the climbs. 
 
