@@ -1,94 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Climbing</title>
-  <meta name="description" content="">
-
-  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
-  
-    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-  
-  
-  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-  
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  
-
-  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
-  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
-
-  <link rel="canonical" href="/climbing/">
-
-  <link rel="alternate" type="application/rss+xml" title="John D. Martin" href="/feed.xml" />
-</head>
-
-  <body class="full-width">
-    <!--- Header and nav template site-wide -->
-<header>
-    <nav class="group">
-	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
-	
-		
-  	
-		
-		    
-		      <a href="/">About</a>
-		    
-	    
-  	
-		
-		    
-		      <a class="active" href="/climbing/" class="active">Climbing</a>
-		    
-	    
-  	
-		
-		    
-		      <a href="/research/">Research</a>
-		    
-	    
-  	
-		
-		    
-		      <a href="/blog/">Blog</a>
-		    
-	    
-  	
-		
-		    
-		      <a href="/news/">News</a>
-		    
-	    
-  	
-		
-		    
-		      <a href="/css/print.css"></a>
-		    
-	    
-  	
-		
-  	
-	</nav>
-</header>
-    <article>
-      <h1 id="climbing">Climbing</h1>
-<figure class="fullwidth"><img src="/assets/img/jm_shuksan.png" /><figcaption>Circumventing a yawning crevasse atop of the Price Glacier.</figcaption></figure>
-
-<p>I spend a good deal of my free time in pursuit of alpine climbing objectives. Here I recount some of my more noteable trips. My hope is that the information can be of some use to those looking to repeat the climbs.</p>
-
-<h2 id="trip-reports">Trip Reports</h2>
+I"�<h1 class="content-listing-header sans">Articles</h1>
 <ul class="content-listing ">
     
-	
-          <li class="listing">
-            <hr class="slender" />
-            <a href="/articles/20/pinnacle"><h3 class="contrast">Pinnacle Gully on Mount Washington</h3></a>
-            <br /><span class="smaller">February 21, 2020</span>  <br />
-            <div><p><span class="newthought">Pinnacle Gully</span>  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. </p>
+        <li class="listing">
+          <hr class="slender" />
+          <a href="/articles/20/pinnacle"><h3 class="contrast">Pinnacle Gully on Mount Washington</h3></a>
+          <br /><span class="smaller">February 21, 2020</span>  <br />
+          <div><p><span class="newthought">Pinnacle Gully</span>  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. </p>
 
 <p>We went up on a cold day. The temperature was about -2F at 5:00am when we arrived at Pinkham Notch. The staff in the visitor center had just posted a new weather report from the summit station. Windchill was reported to be -45F with speeds around 40mph. After a bit of discussion, we all agreed the speeds were manageable, but that the chill was too low for the gear we brought. We decided to wait until 10am before leaving – figuring it would take us two hours to approach, and by then the wind advisory would be lifted to a balmy -35F. Around 8:00am we got bored and started our approach.</p>
 <figure><figcaption>Pinnacle Gully resides to left of the buttress centered in the image. Central is the large gully to its right.</figcaption><img src="/assets/img/2020-pinnacle/approach.png" /></figure>
@@ -115,36 +32,8 @@ The climbing can be divided in two sections: the snow slope leading up to the i
 
 <p> </p>
 </div>
-          </li>
-	
+        </li>
     
   </ul>
 
-
-    </article>
-    <span class="print-footer">Climbing - john d. martin</span>
-    <footer>
-  <hr class="slender">
-  <ul class="footer-links">
-   
-      <li>
-        <a href="//www.twitter.com/jdmartin86"><span class="icon-twitter"></span></a>
-      </li>
-    
-      <li>
-        <a href="//github.com/jdmartin86"><span class="icon-github"></span></a>
-      </li>
-    
-      <li>
-        <a href="/feed"><span class="icon-feed"></span></a>
-      </li>
-      
-  </ul>
-<div class="credits">
-<span>&copy; 2020 &nbsp;&nbsp;JOHN D. MARTIN</span></br> <br>
-<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
-</div>  
-</footer>
-
-  </body>
-</html>
+:ET
