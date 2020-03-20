@@ -1,0 +1,84 @@
+I"�A<h1 class="content-listing-header sans">Articles</h1>
+<ul class="content-listing ">
+    
+        <li class="listing">
+          <hr class="slender" />
+          <a href="/articles/20/reflections"><h3 class="contrast">Understanding The Bitter Lesson</h3></a>
+          <br /><span class="smaller">March 13, 2020</span>  <br />
+          <div><p><span class="newthought">This post</span>  articulates my position on <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a>, a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research.</p>
+
+<h2 id="the-bitter-lesson-in-summary">The Bitter Lesson in Summary</h2>
+<p>Sutton’s bitter lesson teaches us that long-term progress in AI has predominately been the result of general methods that were endowed with more computational resources. The message is difficult for AI researchers to swallow, because many like to think their research informs general knowledge about <em>the mind</em><label for="sn-mind" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-mind" class="margin-toggle" /><span class="sidenote">I refer to <em>the mind</em> as the set of mental processes that are coupled to the physical world. The term is intended to be a pedagogical device, not an invitation to explain cognition as a separate entity inside ourselves doing all the deciding and experiencing for us. </span>: how it works and how it interacts with the world. Sutton provides a few notable examples showing that the opposite has been true. Encoding how we believe the mind works ultimately subtracts from a method’s generality and hence its long-term impact. His examples illustrate that such approaches have historically been overshadowed by more general methods whose performance improves with Moore’s Law.</p>
+
+<p>I think it’s easy to be mistake Sutton’s words for his ideas. The article can give the impression that any and all inductive biases should be discouraged, and that AI researchers should spend their energy on more ‘brute force’ methods. In a sense this is true, but the message I find behind his words is less absolute. Sutton is saying that we need to be mindful of how far inductive biases will get us. His advice is based on particular ideas of what it means to be general and how the mind interacts with the world. These are easy to miss or overlook on a first read. I’ll spend the rest of the post unpacking these ideas and describing other ways of viewing these concepts. My goal is not to champion any one particular view, but rather to show what each view has to offer the science of AI.</p>
+
+<h3 id="generalization">Generalization</h3>
+<p>Most AI researchers would agree that we should be developing general methods that can solve more problems. However, agreeing on what it means for an algorithm to generalize is a subject of some debate. Sutton describes <em>generalization</em> as the propensity for an algorithm to scale with more computation:</p>
+
+<blockquote>
+  <p>One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. —  <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a></p>
+</blockquote>
+
+<p>This is a valid way to think about generalization, because systems that are given more computational resources will be able to solve more problems. I find his idea akin to computational complexity; if algorithm <span>​<script type="math/tex">A</script></span> scales better than <span>​<script type="math/tex">B</script></span>  in terms of some resource, then we would conclude <span>​<script type="math/tex">A</script></span> can solve more problems and is the more general algorithm.</p>
+
+<p>Another way to think about generalization is in terms of robustness, or the ability to cope with surprise. We can say that</p>
+<blockquote>
+  <p>Generalization is the ability to use past experience to perform successfully in new and different situations.</p>
+</blockquote>
+
+<p>The rationale here is that proficient adaptation enables more problems to be solved. This view emphasizes an important aspect of reality: the experience stream. In reality, what you see is all there is<label for="sn-thinking_fast_and_slow" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-thinking_fast_and_slow" class="margin-toggle" /><span class="sidenote">An idea from psychology. See Daniel Kahneman’s book, <em>Thinking Fast and Slow</em> </span>, and what you will see is all that matters. An increased propensity to scale in other situations matters less. Viewing generalization as robustness suggests that what is already known and how it is represented are important to problem solving. We can see some evidence for this from evolution <label for="mf-tree_of_life" class="margin-toggle">⊕</label><input type="checkbox" id="mf-tree_of_life" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/2020-bitter_lesson/tree-of-life.png" /><br />Leonard Eisenberg, <em>Tree of Life.</em> Humans seem to be more general problem solvers than other species, despite evolving for much less time. Perhaps we represent knowledge in a way that makes us more robust to the surprises of life.</span>. What distinguishes humans from the rest of the natural world is not how long we took to evolve, but <em>how</em> we evolved from our unique history of experience.</p>
+
+<p>Both views of generality offer a way to solve more problems. Sutton’s view is based on the premise that good complexity implies good generalization. His idea is historically backed and divorced from the biases humans try to build into their systems. The alternative view argues, however, that thinking entirely in terms of complexity is too removed from the full reality of how agents interact with the world.  In nature, having a larger brain, a higher neuronal density, or more time to evolve (e.g. more resources) doesn’t always translate to an improved existence. What matters is the ability to cope with the surprises life presents. Resources can certainly help with this, but only when the right concepts, representations, and <em>inductive biases</em> are already in place.</p>
+
+<h3 id="inductive-biases">Inductive Biases</h3>
+<p>The Bitter Lesson cautions against making systems that work the way we think our own minds work. This is Sutton taking a stance on inductive bias. One thing he’s saying is that inductive biases are not free<label for="sn-inductive_bias" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-inductive_bias" class="margin-toggle" /><span class="sidenote">This message is echoed in a recent paper  by his colleagues at DeepMind: On Inductive Biases in Deep Reinforcement Learning <a href="https://arxiv.org/abs/1907.02908">[pdf]</a> </span>. From his perspective, inductive biases subtract from a method’s ability to scale with more computation. He brings up several examples where the induction of domain-specific knowledge caused research progress to plateau.</p>
+
+<p>It should be clear that inductive bias is inherently linked to the notion of generality which one chooses to subscribe. Induction of prior knowledge can support better adaptation. And this can be positive if one views generality as an emerging property from robustness to surprise. Consider the application of convolutional neural networks to streams of imagery. Convolutions allow systems to adapt more effectively when their experience streams primarily consist of spatial data. Even Sutton agrees that computer vision methods perform much better using these principles: “Modern deep-learning neural networks use only the notions of convolution and certain kinds of invariances, and perform much better.” It’s undeniable that in some cases, fewer biases can lead to algorithms that work on a larger class of problems. However, this observation just reinforces the robustness view of generality, which proclaims that researchers should be looking the <em>right inductive biases.</em> How to find the right inductive bias is an open question and a topic of further debate. Regardless of which side one finds themself on this issue, both views underscore the importance of understanding the role of inductive biases in the context of generality.</p>
+
+<h3 id="scientific-progress-in-artifical-intelligence">Scientific Progress in Artifical Intelligence</h3>
+<p>In some ways The Bitter Lesson is a call for AI scientists to set their sights on a more distant horizon and consider the far term impact of their research. Given that computational resources are becoming more abundant all the time, this seems like sage advice. AI systems shouldn’t be designed as if their available computation will remain constant.</p>
+
+<p>For Sutton, scientific progress seems like a straight path that gets broader as time goes on and more computation becomes available. There are sometimes places where we can make progress by going off path to circumvent difficult terrain, but for the most part these short deviations only create a tendency to get lost and to lose sight of the final objective.</p>
+
+<p>In the few years I’ve spent researching AI, I’ve observed that progress behaves more like a pendulum, whose length represents progress, and whose motion points to the dominant approach of advancement. The AI pendulum in this discussion oscillates between searching for good inductive biases and scaling our ideas with more computation. If we’re doing things right as a community, then its average undulations will contract toward the center, and its swings will quicken as progress in one area informs work in the other. Viewing this process differently shows that the progress will trajectory spirals inward toward a breakthrough in our understanding general intelligence and what it means to replicate that.</p>
+
+<p>~John</p>
+</div>
+        </li>
+    
+        <li class="listing">
+          <hr class="slender" />
+          <a href="/articles/20/pinnacle"><h3 class="contrast">Pinnacle Gully on Mount Washington</h3></a>
+          <br /><span class="smaller">February 21, 2020</span>  <br />
+          <div><p><span class="newthought">Pinnacle Gully</span>  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. </p>
+
+<p>We went up on a cold day. The temperature was about -2F at 5:00am when we arrived at Pinkham Notch. The staff in the visitor center had just posted a new weather report from the summit station. Windchill was reported to be -45F with speeds around 40mph. After a bit of discussion, we all agreed the speeds were manageable, but that the chill was too low for the gear we brought. We decided to wait until 10am before leaving – figuring it would take us two hours to approach, and by then the wind advisory would be lifted to a balmy -35F. Around 8:00am we got bored and started our approach.</p>
+<figure><figcaption>Pinnacle Gully resides to left of the buttress centered in the image. Central is the large gully to its right.</figcaption><img src="/assets/img/2020-pinnacle/approach.png" /></figure>
+<h2 id="approach">Approach</h2>
+<p>To get there, follow signs to Huntington Ravine. From Huntington, find Central Gully. This will be the widest and most obvious gully to spot from the clearing. On the other side of Central’s left buttress, Pinnacle Gully will be hidden in the morning shade. To reach the first pitch, ascend the small snow slope and hang left. Be mindful here, as the high winds in this area can form layers of <em>wind slab</em>, which is a crust of hardened snow that can be unstable. We avoided this by remaining close to the rock. Our first belay station was on the leftside of the gully, at the boundary of ice and snow.<label for="pitch1" class="margin-toggle">⊕</label><input type="checkbox" id="pitch1" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/2020-pinnacle/route.jpg" /><br />Looking up the route.</span></p>
+
+<h2 id="the-climb">The Climb</h2>
+<p><label for="belay1" class="margin-toggle">⊕</label><input type="checkbox" id="belay1" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/2020-pinnacle/belay1.png" /><br />Looking down the lower slopes from the first belay. Burrrr. Hurry up, Adam!</span>
+The first pitch is by far the steepest and most technical. Starting from the gully’s left side, we traversed right to gain an entry point onto the wet ice. This is where we could see lots of running water. The soft ice persisted as the climbing got steeper, but eventually we were rewarded with some large bulbs of thick hard ice. Here is where we placed our longest screws, and where our tools were afforded us the best purchase. We pressed on higher and higher, increasingly mindful of the considerable exposure accumulating behind us. The climbing remained difficult and sustained until about 30ft of low-angle snow led us to the next belay station. If you can make it this far, then the rest of the climbing will seem fairly straightforward.</p>
+<figure><figcaption>Adam leading pitch 1. Notice the wind slab beginning to seperate in the lower rightside of the image.</figcaption><img src="/assets/img/2020-pinnacle/pitch1.png" /></figure>
+
+<p>The second belay station is on the left side of the gully. We found the red cord easy to spot from below, and we all felt an incredible sense of relief clipping ourselves into an anchor fastened by three pitons.</p>
+<figure><figcaption>Dan leading pitch 2. How many peices of dropped gear can you spot?</figcaption><img src="/assets/img/2020-pinnacle/pitch2.png" /></figure>
+<p> 
+The climbing can be divided in two sections: the snow slope leading up to the ice, and then everything after that. I would rate this pitch at about WI-2. More advanced climbers may feel comfortable soloing up to meet the ice. This could be advantageous by freeing up more rope to find the third anchor. We pitched this section out and, after running out the full 60m of rope, never found the the anchor others report to have used. Maybe it was frozen under ice someplace. Who knows. Instead, we built a rock anchor using two cams. Nobody trusted this to hold more than a belay device. So any fall would have probably zippered the gear. In retrospect, we could have hammered in snow stakes if we had them. The snow felt solid enough up there to support a fall.   </p>
+
+<p>Once everyone arrived to our delicate anchor, we didn’t see a compelling reason to clip in. We decided instead to just unrope and solo the last pitch. It was all snow and pretty easy going. We daggered our way up the gully’s left side, avoiding the obvious fracture lines of wind slab. We stopped before gaining the crest, to get one last drink of water before suffering through the extreme wind in the alpine garden. The extreme conditions here should not be underestimated. Every time I top out in the alpine garden, I descend as fast as I can, following the carins and not stopping until I reach Lion’s Head trail at the treeline.</p>
+
+<h2 id="descent">Descent</h2>
+<p>Lion Head’s trail next to Tuckerman’s Ravine is the standard route for most climbers, unless you plan to traverse the mountain to continue onward. Keep your crampons on and use a single axe for the steeper sections. This may seem obvious, but inevitably a queue will begin to form on busier days, because somebody doesn’t have the right gear and instead has to clutch onto every nearby branch to descend.</p>
+
+<h2 id="summary">Summary</h2>
+<p>In my opinion Pinnacle Gully is one of the most fun and engaging alpine climbs in North East. It’s straightforward to find and simple to navigate as a climber. However, it requires considerable stamina and climbers to apply non-trivial technique over snow, ice, and rock – a throughly enjoyable climb that merits many celebratory beers once it’s complete.</p>
+
+<p> </p>
+</div>
+        </li>
+    
+  </ul>
+
+:ET
