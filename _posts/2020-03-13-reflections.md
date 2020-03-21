@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Understanding The Bitter Lesson"
 date:   2020-03-13 
