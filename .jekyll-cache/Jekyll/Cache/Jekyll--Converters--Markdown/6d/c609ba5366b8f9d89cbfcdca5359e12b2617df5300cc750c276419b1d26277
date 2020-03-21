@@ -1,11 +1,5 @@
-I"�A<h1 class="content-listing-header sans">Articles</h1>
-<ul class="content-listing ">
-    
-        <li class="listing">
-          <hr class="slender" />
-          <a href="/articles/20/reflections"><h3 class="contrast">Understanding The Bitter Lesson</h3></a>
-          <br /><span class="smaller">March 13, 2020</span>  <br />
-          <div><p><span class="newthought">This post</span>  articulates my position on <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a>, a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research.</p>
+I"�%<p><span class="newthought">This post</span>  articulates my position on <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a>, a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research. 
+<!--more--></p>
 
 <h2 id="the-bitter-lesson-in-summary">The Bitter Lesson in Summary</h2>
 <p>Sutton’s bitter lesson teaches us that long-term progress in AI has predominately been the result of general methods that were endowed with more computational resources. The message is difficult for AI researchers to swallow, because many like to think their research informs general knowledge about <em>the mind</em><label for="sn-mind" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-mind" class="margin-toggle" /><span class="sidenote">I refer to <em>the mind</em> as the set of mental processes that are coupled to the physical world. The term is intended to be a pedagogical device, not an invitation to explain cognition as a separate entity inside ourselves doing all the deciding and experiencing for us. </span>: how it works and how it interacts with the world. Sutton provides a few notable examples showing that the opposite has been true. Encoding how we believe the mind works ultimately subtracts from a method’s generality and hence its long-term impact. His examples illustrate that such approaches have historically been overshadowed by more general methods whose performance improves with Moore’s Law.</p>
@@ -43,42 +37,4 @@
 <p>In the few years I’ve spent researching AI, I’ve observed that progress behaves more like a pendulum, whose length represents progress, and whose motion points to the dominant approach of advancement. The AI pendulum in this discussion oscillates between searching for good inductive biases and scaling our ideas with more computation. If we’re doing things right as a community, then its average undulations will contract toward the center, and its swings will quicken as progress in one area informs work in the other. Viewing this process differently shows that the progress will trajectory spirals inward toward a breakthrough in our understanding general intelligence and what it means to replicate that.</p>
 
 <p>~John</p>
-</div>
-        </li>
-    
-        <li class="listing">
-          <hr class="slender" />
-          <a href="/articles/20/pinnacle"><h3 class="contrast">Pinnacle Gully on Mount Washington</h3></a>
-          <br /><span class="smaller">February 21, 2020</span>  <br />
-          <div><p><span class="newthought">Pinnacle Gully</span>  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. </p>
-
-<p>We went up on a cold day. The temperature was about -2F at 5:00am when we arrived at Pinkham Notch. The staff in the visitor center had just posted a new weather report from the summit station. Windchill was reported to be -45F with speeds around 40mph. After a bit of discussion, we all agreed the speeds were manageable, but that the chill was too low for the gear we brought. We decided to wait until 10am before leaving – figuring it would take us two hours to approach, and by then the wind advisory would be lifted to a balmy -35F. Around 8:00am we got bored and started our approach.</p>
-<figure><figcaption>Pinnacle Gully resides to left of the buttress centered in the image. Central is the large gully to its right.</figcaption><img src="/assets/img/2020-pinnacle/approach.png" /></figure>
-<h2 id="approach">Approach</h2>
-<p>To get there, follow signs to Huntington Ravine. From Huntington, find Central Gully. This will be the widest and most obvious gully to spot from the clearing. On the other side of Central’s left buttress, Pinnacle Gully will be hidden in the morning shade. To reach the first pitch, ascend the small snow slope and hang left. Be mindful here, as the high winds in this area can form layers of <em>wind slab</em>, which is a crust of hardened snow that can be unstable. We avoided this by remaining close to the rock. Our first belay station was on the leftside of the gully, at the boundary of ice and snow.<label for="pitch1" class="margin-toggle">⊕</label><input type="checkbox" id="pitch1" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/2020-pinnacle/route.jpg" /><br />Looking up the route.</span></p>
-
-<h2 id="the-climb">The Climb</h2>
-<p><label for="belay1" class="margin-toggle">⊕</label><input type="checkbox" id="belay1" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/2020-pinnacle/belay1.png" /><br />Looking down the lower slopes from the first belay. Burrrr. Hurry up, Adam!</span>
-The first pitch is by far the steepest and most technical. Starting from the gully’s left side, we traversed right to gain an entry point onto the wet ice. This is where we could see lots of running water. The soft ice persisted as the climbing got steeper, but eventually we were rewarded with some large bulbs of thick hard ice. Here is where we placed our longest screws, and where our tools were afforded us the best purchase. We pressed on higher and higher, increasingly mindful of the considerable exposure accumulating behind us. The climbing remained difficult and sustained until about 30ft of low-angle snow led us to the next belay station. If you can make it this far, then the rest of the climbing will seem fairly straightforward.</p>
-<figure><figcaption>Adam leading pitch 1. Notice the wind slab beginning to seperate in the lower rightside of the image.</figcaption><img src="/assets/img/2020-pinnacle/pitch1.png" /></figure>
-
-<p>The second belay station is on the left side of the gully. We found the red cord easy to spot from below, and we all felt an incredible sense of relief clipping ourselves into an anchor fastened by three pitons.</p>
-<figure><figcaption>Dan leading pitch 2. How many peices of dropped gear can you spot?</figcaption><img src="/assets/img/2020-pinnacle/pitch2.png" /></figure>
-<p> 
-The climbing can be divided in two sections: the snow slope leading up to the ice, and then everything after that. I would rate this pitch at about WI-2. More advanced climbers may feel comfortable soloing up to meet the ice. This could be advantageous by freeing up more rope to find the third anchor. We pitched this section out and, after running out the full 60m of rope, never found the the anchor others report to have used. Maybe it was frozen under ice someplace. Who knows. Instead, we built a rock anchor using two cams. Nobody trusted this to hold more than a belay device. So any fall would have probably zippered the gear. In retrospect, we could have hammered in snow stakes if we had them. The snow felt solid enough up there to support a fall.   </p>
-
-<p>Once everyone arrived to our delicate anchor, we didn’t see a compelling reason to clip in. We decided instead to just unrope and solo the last pitch. It was all snow and pretty easy going. We daggered our way up the gully’s left side, avoiding the obvious fracture lines of wind slab. We stopped before gaining the crest, to get one last drink of water before suffering through the extreme wind in the alpine garden. The extreme conditions here should not be underestimated. Every time I top out in the alpine garden, I descend as fast as I can, following the carins and not stopping until I reach Lion’s Head trail at the treeline.</p>
-
-<h2 id="descent">Descent</h2>
-<p>Lion Head’s trail next to Tuckerman’s Ravine is the standard route for most climbers, unless you plan to traverse the mountain to continue onward. Keep your crampons on and use a single axe for the steeper sections. This may seem obvious, but inevitably a queue will begin to form on busier days, because somebody doesn’t have the right gear and instead has to clutch onto every nearby branch to descend.</p>
-
-<h2 id="summary">Summary</h2>
-<p>In my opinion Pinnacle Gully is one of the most fun and engaging alpine climbs in North East. It’s straightforward to find and simple to navigate as a climber. However, it requires considerable stamina and climbers to apply non-trivial technique over snow, ice, and rock – a throughly enjoyable climb that merits many celebratory beers once it’s complete.</p>
-
-<p> </p>
-</div>
-        </li>
-    
-  </ul>
-
 :ET

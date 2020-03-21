@@ -5,6 +5,7 @@ date:   2020-03-13
 categories: AI, science
 ---
 {% newthought 'This post' %} articulates my position on [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research. 
+<!--more--> 
 
 ## The Bitter Lesson in Summary
 Sutton's bitter lesson teaches us that long-term progress in AI has predominately been the result of general methods that were endowed with more computational resources. The message is difficult for AI researchers to swallow, because many like to think their research informs general knowledge about *the mind*{% sidenote "sn-mind" "I refer to *the mind* as the set of mental processes that are coupled to the physical world. The term is intended to be a pedagogical device, not an invitation to explain cognition as a separate entity inside ourselves doing all the deciding and experiencing for us." %}: how it works and how it interacts with the world. Sutton provides a few notable examples showing that the opposite has been true. Encoding how we believe the mind works ultimately subtracts from a method's generality and hence its long-term impact. His examples illustrate that such approaches have historically been overshadowed by more general methods whose performance improves with Moore's Law. 
