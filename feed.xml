@@ -5,13 +5,14 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Mar 2020 19:40:47 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2020 19:40:47 -0400</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2020 08:30:39 -0400</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2020 08:30:39 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Understanding The Bitter Lesson</title>
-        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;This post&lt;/span&gt;  articulates my position on &lt;a href=&quot;http://www.incompleteideas.net/IncIdeas/BitterLesson.html&quot;&gt;The Bitter Lesson&lt;/a&gt;, a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;This post&lt;/span&gt;  articulates my position on &lt;a href=&quot;http://www.incompleteideas.net/IncIdeas/BitterLesson.html&quot;&gt;The Bitter Lesson&lt;/a&gt;, a conclusion that Rich Sutton draws in his retrospective critique of Artifical Intelligence (AI) research. 
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-bitter-lesson-in-summary&quot;&gt;The Bitter Lesson in Summary&lt;/h2&gt;
 &lt;p&gt;Sutton’s bitter lesson teaches us that long-term progress in AI has predominately been the result of general methods that were endowed with more computational resources. The message is difficult for AI researchers to swallow, because many like to think their research informs general knowledge about &lt;em&gt;the mind&lt;/em&gt;&lt;label for=&quot;sn-mind&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-mind&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;I refer to &lt;em&gt;the mind&lt;/em&gt; as the set of mental processes that are coupled to the physical world. The term is intended to be a pedagogical device, not an invitation to explain cognition as a separate entity inside ourselves doing all the deciding and experiencing for us. &lt;/span&gt;: how it works and how it interacts with the world. Sutton provides a few notable examples showing that the opposite has been true. Encoding how we believe the mind works ultimately subtracts from a method’s generality and hence its long-term impact. His examples illustrate that such approaches have historically been overshadowed by more general methods whose performance improves with Moore’s Law.&lt;/p&gt;
@@ -63,7 +64,8 @@
     
       <item>
         <title>Pinnacle Gully on Mount Washington</title>
-        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Pinnacle Gully&lt;/span&gt;  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. &lt;/p&gt;
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Pinnacle Gully&lt;/span&gt;  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. 
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;We went up on a cold day. The temperature was about -2F at 5:00am when we arrived at Pinkham Notch. The staff in the visitor center had just posted a new weather report from the summit station. Windchill was reported to be -45F with speeds around 40mph. After a bit of discussion, we all agreed the speeds were manageable, but that the chill was too low for the gear we brought. We decided to wait until 10am before leaving – figuring it would take us two hours to approach, and by then the wind advisory would be lifted to a balmy -35F. Around 8:00am we got bored and started our approach.&lt;/p&gt;
 &lt;figure&gt;&lt;figcaption&gt;Pinnacle Gully resides to left of the buttress centered in the image. Central is the large gully to its right.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2020-pinnacle/approach.png&quot; /&gt;&lt;/figure&gt;
