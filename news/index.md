@@ -4,13 +4,24 @@ title: News
 ---
 
 # News & Activities
+**July 1, 2020:** Three projects with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org). Preprints are forthcoming.
+
+Variational Filtering with Copula Models for SLAM  
+**John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard.
+
+Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs  
+Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot.
+
+Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction  
+John McConnell, **John D. Martin**, Brendan Englot.
+
 **June 1, 2020:** Our paper [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318) was accepted to the [International Conference on Machine Learning (ICML)](https://icml.cc)! [[paper](https://arxiv.org/abs/1905.07318)]
 
 **May 1, 2020:** I'm giving a guest lecture on uncertainty-aware reinforcement learning to the advanced robotics class for graduate students at Stevens Institute of Technology. [[slides](/assets/slides/2020-advanced_robotics_lecture.pdf)]
 
 **March 13, 2020:** Today I am showcasing my work on uncertainy-aware decision making as part of the [New York Academy of Sciences' 14th annual Machine Learning Symposium](https://www.nyas.org/events/2020/14th-annual-machine-learning-symposium/). [[poster](/assets/posters/2020-martin_etal-poster.pdf)]
  
-**January 27, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with [Joseph Modayil](https://scholar.google.com/citations?user=G3pvUNEAAAAJ&hl=en). There I plan to study catastrophic intereference and methods for improving continual reinforcement learning.
+**January 27, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with [Joseph Modayil](https://scholar.google.com/citations?user=G3pvUNEAAAAJ&hl=en). There I plan to study perception and discovery in the context of continual reinforcement learning.
 
 **November 4, 2019:** Visiting MIT to connect with [Tixiao Shan](https://tixiaoshan.github.io) at [CSAIL](https://www.csail.mit.edu) and learn about the [Roboat project](http://roboat.org). I'm giving a short talk to the group about my recent work. 
 
