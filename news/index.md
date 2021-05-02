@@ -4,16 +4,22 @@ title: News
 ---
 
 # News & Activities
-**July 1, 2020:** Three projects with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org). Preprints are forthcoming.
+**May 1, 2021:** Today, I started as a postdoctoral fellow at the [University of Alberta](https://www.ualberta.ca/index.html). I'm working with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) in the [RLAI Lab](http://rlai.ualberta.ca), studying artifical intelligence and decision making.
+
+**April 26, 2021:** I sucessfully defended my PhD thesis: Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics.
+
+**November 10, 2020:** I gave a virtual talk to the [RAIL group](http://rail.eecs.berkeley.edu) at UC Berkeley.
+
+**July 1, 2020:** Three projects with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org).
 
 Variational Filtering with Copula Models for SLAM  
-**John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard.
+**John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
 
 Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs  
-Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot.
+Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper]](https://arxiv.org/abs/2007.12640)
 
 Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction  
-John McConnell, **John D. Martin**, Brendan Englot.
+John McConnell, **John D. Martin**, Brendan Englot. [[paper]](https://arxiv.org/abs/2007.10407)
 
 **June 1, 2020:** Our paper [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318) was accepted to the [International Conference on Machine Learning (ICML)](https://icml.cc)! [[paper](https://arxiv.org/abs/1905.07318)]
 
