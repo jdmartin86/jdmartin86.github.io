@@ -17,7 +17,7 @@ Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot,
 
 Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction,  
 John McConnell, **John D. Martin**, Brendan Englot,  
-*International Conference on Intelligent Robots and Systems (IROS)* (2020) [[paper](https://arxiv.org/pdf/2007.10407.pdf)]
+*International Conference on Intelligent Robots and Systems (IROS)* (2020) [[pdf](https://arxiv.org/pdf/2007.10407.pdf)]
 
 On Catastrophic Interference in Atari 2600 Games,  
 William Fedus and Dibya Ghosh, **John D. Martin**, Marc G. Bellemare, Yoshua Bengio, Hugo Larochelle,  
