@@ -16,10 +16,10 @@ Variational Filtering with Copula Models for SLAM
 **John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
 
 Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs  
-Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper]](https://arxiv.org/abs/2007.12640)
+Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper](https://arxiv.org/abs/2007.12640)]
 
 Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction  
-John McConnell, **John D. Martin**, Brendan Englot. [[paper]](https://arxiv.org/abs/2007.10407)
+John McConnell, **John D. Martin**, Brendan Englot. [[paper](https://arxiv.org/abs/2007.10407)]
 
 **June 1, 2020:** Our paper [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318) was accepted to the [International Conference on Machine Learning (ICML)](https://icml.cc)! [[paper](https://arxiv.org/abs/1905.07318)]
 
