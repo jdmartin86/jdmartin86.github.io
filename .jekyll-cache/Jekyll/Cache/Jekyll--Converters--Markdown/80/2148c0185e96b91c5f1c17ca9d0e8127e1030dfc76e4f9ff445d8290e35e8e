@@ -1,14 +1,20 @@
-I"r<h1 id="news--activities">News &amp; Activities</h1>
-<p><strong>July 1, 2020:</strong> Three projects with which I was involved have been accepted for publication at the <a href="https://www.iros2020.org">International Conference on Intelligent Robots and Systems (IROS)</a>. Preprints are forthcoming.</p>
+I"¢<h1 id="news--activities">News &amp; Activities</h1>
+<p><strong>May 1, 2021:</strong> Today, I started as a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>. Iâ€™m working with <a href="http://webdocs.cs.ualberta.ca/~bowling/index.html">Michael Bowling</a> in the <a href="http://rlai.ualberta.ca">RLAI Lab</a>, studying artifical intelligence and decision making.</p>
+
+<p><strong>April 26, 2021:</strong> I sucessfully defended my PhD thesis: Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics.</p>
+
+<p><strong>November 10, 2020:</strong> I gave a virtual talk to the <a href="http://rail.eecs.berkeley.edu">RAIL group</a> at UC Berkeley.</p>
+
+<p><strong>July 1, 2020:</strong> Three projects with which I was involved have been accepted for publication at the <a href="https://www.iros2020.org">International Conference on Intelligent Robots and Systems (IROS)</a>.</p>
 
 <p>Variational Filtering with Copula Models for SLAM<br />
-<strong>John D. Martin</strong>*, Kevin Doherty*, Caralyn Cyr, Brendan Englot, John Leonard.</p>
+<strong>John D. Martin</strong>*, Kevin Doherty*, Caralyn Cyr, Brendan Englot, John Leonard. [<a href="https://arxiv.org/abs/2008.00504">paper</a>]</p>
 
 <p>Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs<br />
-Fanfei Chen, <strong>John D. Martin</strong>, Yewei Huang, Jinkun Wang, Brendan Englot.</p>
+Fanfei Chen, <strong>John D. Martin</strong>, Yewei Huang, Jinkun Wang, Brendan Englot. [<a href="https://arxiv.org/abs/2007.12640">paper</a>]</p>
 
 <p>Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction<br />
-John McConnell, <strong>John D. Martin</strong>, Brendan Englot.</p>
+John McConnell, <strong>John D. Martin</strong>, Brendan Englot. [<a href="https://arxiv.org/abs/2007.10407">paper</a>]</p>
 
 <p><strong>June 1, 2020:</strong> Our paper <a href="https://arxiv.org/abs/1905.07318">Stochastically Dominant Distributional Reinforcement Learning</a> was accepted to the <a href="https://icml.cc">International Conference on Machine Learning (ICML)</a>! [<a href="https://arxiv.org/abs/1905.07318">paper</a>]</p>
 
