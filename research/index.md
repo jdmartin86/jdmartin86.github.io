@@ -3,12 +3,20 @@ layout: full-width
 title: Research
 ---
 # Publications & Posters
+Should Models Be Accurate?,  
+Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling  
+*The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+
+Adapting the Function Approximation Architecture in Online Reinforcement Learning,  
+**John D. Martin**\*,  Joseph Modayil\*,  
+*ArXiv* (2021) [[pdf](https://arxiv.org/pdf/2106.09776)] [[code](https://github.com/jdmartin86/frogseye)] [[RLDM 2022 pdf](/assets/papers/2022_rldm_frogs_eye.pdf)]
+
 Stochastically Dominant Distributional Reinforcement Learning,  
 **John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot,  
 *37th International Conference on Machine Learning* (2020) [[pdf](https://arxiv.org/abs/1905.07318)] [[poster](/assets/posters/2020-martin_etal-poster.pdf)]
 
 Variational Filtering with Copula Models for SLAM,  
-**John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard  
+**John D. Martin**\*, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard  
 _International Conference on Intelligent Robots and Systems (IROS)_ (2020) [[pdf](https://arxiv.org/pdf/2008.00504.pdf)]
 
 Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs,  
