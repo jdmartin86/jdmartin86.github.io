@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**December 23, 2021:** This week I am giving two lectures at the [Nepal Winter AI School](https://nepalschool.naamii.com.np), hosted by NAAMII. The first lecture is on introductory concepts of reinforcement learning [[slides](/assets/slides/2021-naamii-lec1.pdf)]. The second lecture is on reinforcement learning in moderntity [[slides](/assets/slides/2021-naamii-lec2.pdf)].
+
 **May 1, 2021:** Today, I started as a postdoctoral fellow at the [University of Alberta](https://www.ualberta.ca/index.html). I'm working with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) in the [RLAI Lab](http://rlai.ualberta.ca), studying artifical intelligence and decision making.
 
 **April 26, 2021:** I sucessfully defended my PhD thesis: Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics.
