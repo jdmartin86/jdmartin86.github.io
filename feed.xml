@@ -1,95 +1,31 @@
+---
+layout: null
+nav_exclude: true
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John D. Martin</title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 May 2021 21:16:24 -0400</pubDate>
-    <lastBuildDate>Sat, 01 May 2021 21:16:24 -0400</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
-    
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
       <item>
-        <title>Lover's Lane on Lane Peak</title>
-        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Lane Peak&lt;/span&gt;  is a devilish-looking mountain, located in the Tatoosh range of Washington’s Cascade mountains. Lover’s Lane is a narrow snow gully that runs up&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Dan and I started our approach from the Narada Falls parking lot, shortly after the Longmire gate opened at 9AM. The skies were clear, and the temperature was in the high thirties.&lt;/p&gt;
-
-&lt;figure&gt;&lt;figcaption&gt;Lane Peak. Lover's Lane is the left-most gully.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-lane/lane-main.png&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;approach&quot;&gt;Approach&lt;/h2&gt;
-&lt;p&gt;From the parking lot, ascend the slope up to the road above. Follow the road to the right until it starts to bend to the left. Enter the forrest and trek downhill until the ground levels out, and you reach a clearing. Head toward the moutain, which will be on your right. Make sure to find a reasonable place to cross the stream on your left before making your way to the bottom of the slope.&lt;/p&gt;
-
-&lt;figure&gt;&lt;figcaption&gt;The first clearing. Look at that untouched snow.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-lane/lane-approach-1.png&quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;label for=&quot;approach2&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;approach2&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/2021-lane/lane-approach-2.png&quot; /&gt;&lt;br /&gt;Wish I had skis for this approach!&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-climb&quot;&gt;The Climb&lt;/h2&gt;
-&lt;p&gt;The gully has a few places to put gear. We simulclimbed about half the route, until we could throw a sling around a tree, located at climber’s right.&lt;/p&gt;
-
-&lt;p&gt;We climbed with a running belay after that. Dan put in three knifeblades. One of which I dropped and lost, and the other I couldn’t remove.&lt;/p&gt;
-
-&lt;p&gt;The very top of the route is marked by a tree. Folks use this to rapp into the Zipper.&lt;/p&gt;
-
-&lt;h2 id=&quot;descent&quot;&gt;Descent&lt;/h2&gt;
-
-&lt;p&gt;Since we were running short of time, we decided to rapp the ascent gully. Two double-rope rappels got us most of the way down. From there, we downclimbed the rest and followed our tracks back to the car.&lt;/p&gt;
-
-&lt;figure&gt;&lt;figcaption&gt;Rapping the gully.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-lane/lane-descent.png&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Despite its appearance from far away, this route was relatively mild. I definitely reccomend it as a day trip, especially to those looking to knock off some seasonal rust or hone in their ski-mountaineering skills.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 Mar 2021 00:00:00 -0500</pubDate>
-        <link>/articles/21/lane</link>
-        <guid isPermaLink="true">/articles/21/lane</guid>
-        
-        
-        <category>climbing</category>
-        
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
       </item>
-    
-      <item>
-        <title>Pinnacle Gully on Mount Washington</title>
-        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Pinnacle Gully&lt;/span&gt;  is a relatively narrow passageway of steep ice on Mount Washington. The route begins at Huntington Ravine and terminates in the alpine garden, just a forty-minute walk back down to the tree line. The climb consists of three rope-stretching pitches. (Bring a 70m rope if you like to wander.) It goes without saying that conditions will depend on the season. In February, we experienced ice of varying quality: from young ice that was soft and would hold an entire pick, to brittle glassy sheets that shattered with a tap. There was also the occasional flow of water running underneath that kept us moving forward. But for the most part, the ice was thick, and we felt secure with all of our placements. 
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;We went up on a cold day. The temperature was about -2F at 5:00am when we arrived at Pinkham Notch. The staff in the visitor center had just posted a new weather report from the summit station. Windchill was reported to be -45F with speeds around 40mph. After a bit of discussion, we all agreed the speeds were manageable, but that the chill was too low for the gear we brought. We decided to wait until 10am before leaving – figuring it would take us two hours to approach, and by then the wind advisory would be lifted to a balmy -35F. Around 8:00am we got bored and started our approach.&lt;/p&gt;
-&lt;figure&gt;&lt;figcaption&gt;Pinnacle Gully resides to left of the buttress centered in the image. Central is the large gully to its right.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2020-pinnacle/approach.png&quot; /&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;approach&quot;&gt;Approach&lt;/h2&gt;
-&lt;p&gt;To get there, follow signs to Huntington Ravine. From Huntington, find Central Gully. This will be the widest and most obvious gully to spot from the clearing. On the other side of Central’s left buttress, Pinnacle Gully will be hidden in the morning shade. To reach the first pitch, ascend the small snow slope and hang left. Be mindful here, as the high winds in this area can form layers of &lt;em&gt;wind slab&lt;/em&gt;, which is a crust of hardened snow that can be unstable. We avoided this by remaining close to the rock. Our first belay station was on the leftside of the gully, at the boundary of ice and snow.&lt;label for=&quot;pitch1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;pitch1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/2020-pinnacle/route.jpg&quot; /&gt;&lt;br /&gt;Looking up the route.&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-climb&quot;&gt;The Climb&lt;/h2&gt;
-&lt;p&gt;&lt;label for=&quot;belay1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;belay1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/2020-pinnacle/belay1.png&quot; /&gt;&lt;br /&gt;Looking down the lower slopes from the first belay. Burrrr. Hurry up, Adam!&lt;/span&gt;
-The first pitch is by far the steepest and most technical. Starting from the gully’s left side, we traversed right to gain an entry point onto the wet ice. This is where we could see lots of running water. The soft ice persisted as the climbing got steeper, but eventually we were rewarded with some large bulbs of thick hard ice. Here is where we placed our longest screws, and where our tools were afforded us the best purchase. We pressed on higher and higher, increasingly mindful of the considerable exposure accumulating behind us. The climbing remained difficult and sustained until about 30ft of low-angle snow led us to the next belay station. If you can make it this far, then the rest of the climbing will seem fairly straightforward.&lt;/p&gt;
-&lt;figure&gt;&lt;figcaption&gt;Adam leading pitch 1. Notice the wind slab beginning to seperate in the lower rightside of the image.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2020-pinnacle/pitch1.png&quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;The second belay station is on the left side of the gully. We found the red cord easy to spot from below, and we all felt an incredible sense of relief clipping ourselves into an anchor fastened by three pitons.&lt;/p&gt;
-&lt;figure&gt;&lt;figcaption&gt;Dan leading pitch 2. How many peices of dropped gear can you spot?&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2020-pinnacle/pitch2.png&quot; /&gt;&lt;/figure&gt;
-&lt;p&gt; 
-The climbing can be divided in two sections: the snow slope leading up to the ice, and then everything after that. I would rate this pitch at about WI-2. More advanced climbers may feel comfortable soloing up to meet the ice. This could be advantageous by freeing up more rope to find the third anchor. We pitched this section out and, after running out the full 60m of rope, never found the the anchor others report to have used. Maybe it was frozen under ice someplace. Who knows. Instead, we built a rock anchor using two cams. Nobody trusted this to hold more than a belay device. So any fall would have probably zippered the gear. In retrospect, we could have hammered in snow stakes if we had them. The snow felt solid enough up there to support a fall.   &lt;/p&gt;
-
-&lt;p&gt;Once everyone arrived to our delicate anchor, we didn’t see a compelling reason to clip in. We decided instead to just unrope and solo the last pitch. It was all snow and pretty easy going. We daggered our way up the gully’s left side, avoiding the obvious fracture lines of wind slab. We stopped before gaining the crest, to get one last drink of water before suffering through the extreme wind in the alpine garden. The extreme conditions here should not be underestimated. Every time I top out in the alpine garden, I descend as fast as I can, following the carins and not stopping until I reach Lion’s Head trail at the treeline.&lt;/p&gt;
-
-&lt;h2 id=&quot;descent&quot;&gt;Descent&lt;/h2&gt;
-&lt;p&gt;Lion Head’s trail next to Tuckerman’s Ravine is the standard route for most climbers, unless you plan to traverse the mountain to continue onward. Keep your crampons on and use a single axe for the steeper sections. This may seem obvious, but inevitably a queue will begin to form on busier days, because somebody doesn’t have the right gear and instead has to clutch onto every nearby branch to descend.&lt;/p&gt;
-
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;In my opinion Pinnacle Gully is one of the most fun and engaging alpine climbs in North East. It’s straightforward to find and simple to navigate as a climber. However, it requires considerable stamina and climbers to apply non-trivial technique over snow, ice, and rock – a throughly enjoyable climb that merits many celebratory beers once it’s complete.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Feb 2020 08:06:04 -0500</pubDate>
-        <link>/articles/20/pinnacle</link>
-        <guid isPermaLink="true">/articles/20/pinnacle</guid>
-        
-        
-        <category>climbing</category>
-        
-      </item>
-    
+    {% endfor %}
   </channel>
 </rss>
