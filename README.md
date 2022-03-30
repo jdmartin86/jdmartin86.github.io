@@ -9,6 +9,24 @@ content using this style much easier than writing straight HTML. Essentially, if
 you know markdown, and mix in a few custom Liquid tags, you can be creating a
 website with this document style in short order.
 
+## Deploying my site
+The markdown files that should be edited with changes are on the `gh-pages` branch, and the published files that GitHub Pages serves are on `master`.
+
+Run the following command to build and deploy to `master`.
+
+```
+jgd -r gh-pages -b master
+```
+
+## Testing Locally
+Local changes can be tested from the top-level `jdmartin86.github.io` directory with the following.
+
+```
+jekyll build && jekyll serve -w
+```
+
+Make sure rbenv is using Ruby 2.4.0 and Jekyll 2.5.3.
+
 ## Demo
 
 A sample site with self-documenting content is available
