@@ -6,7 +6,7 @@ title: About
 <h1 class="content-listing-header sans">John D. Martin</h1>
 I’m a postdoctoral fellow researching decision making and artificial intelligence at the University of Alberta. I work with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html), as a member of the [RLAI Lab](http://rlai.ualberta.ca). 
 
-I obtained my PhD from Stevens Institute of Technology, where I was advised by [Prof. Brendan Englot](http://personal.stevens.edu/~benglot/). I earned undergraduate degrees in both physics and aerospace engineering from the [University of Maryland](https://umdphysics.umd.edu). I’ve also spent time at [DeepMind](https://deepmind.com), [Google Brain](https://ai.google), [Columbia University](https://www.columbia.edu), and [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/). See my [CV](/2022-martin-cv.pdf) for more details.
+I obtained my PhD from Stevens Institute of Technology, where I was advised by [Prof. Brendan Englot](http://personal.stevens.edu/~benglot/). I earned undergraduate degrees in both physics and aerospace engineering from the [University of Maryland](https://umdphysics.umd.edu). I’ve also spent time at [DeepMind](https://deepmind.com), [Google Brain](https://ai.google), [Columbia University](https://www.columbia.edu), and [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/). See my [CV](/assets/cv/2022-martin-cv.pdf) for more details.
 
 ## Research Interests
 I want to understand how we can design machines that are capable of learning and making intelligent decisions. My current research pertains to questions about the generality of resource-constrained, physical learning systems.
