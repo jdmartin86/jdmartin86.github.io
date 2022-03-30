@@ -4,6 +4,19 @@ title: News
 ---
 
 # News & Activities
+**March 18, 2022:** I had two extended abstracts accepted to [RLDM](https://rldm.org) (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making). 
+
+Should Models Be Useful?,  
+Esra'a Saleh, **John D. Martin**,  Anna Koop, Arash Pourzarabi, Michael Bowling. [[pdf](https://arxiv.org/pdf/2106.09776)]
+
+Adapting the Function Approximation Architecture in Online Reinforcement Learning,  
+**John D. Martin**,  Joseph Modayil.  [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper](https://arxiv.org/pdf/2106.09776)] 
+ 
+
+**February 14, 2022:** I was named by the [IEEE Journal of Ocenanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/) as one of their outstanding reviewers of 2021. 
+
+**December 23, 2021:** This week I'm giving two lectures at [the Nepal Winter School for AI](https://nepalschool.naamii.com.np), hosted by NAAMII. The first is on introductory reinforcement learning [[slides]](/assets/slides/2021-naamii-rl_lec_01_jdmartin.pdf). The second is on reinforcement learning in modernity [[slides]](/assets/slides/2021-naamii-rl_lec3_part1_jdmartin.pdf).
+
 **May 1, 2021:** Today, I started as a postdoctoral fellow at the [University of Alberta](https://www.ualberta.ca/index.html). I'm working with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) in the [RLAI Lab](http://rlai.ualberta.ca), studying artifical intelligence and decision making.
 
 **April 26, 2021:** I sucessfully defended my PhD thesis: Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics.
