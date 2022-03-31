@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2022 12:23:39 -0400</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2022 12:23:39 -0400</lastBuildDate>
+    <pubDate>Thu, 31 Mar 2022 01:23:00 -0400</pubDate>
+    <lastBuildDate>Thu, 31 Mar 2022 01:23:00 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,6 +28,29 @@
         <pubDate>Sat, 22 May 2021 00:00:00 -0400</pubDate>
         <link>/articles/21/hood</link>
         <guid isPermaLink="true">/articles/21/hood</guid>
+        
+        
+        <category>climbing</category>
+        
+      </item>
+    
+      <item>
+        <title>Kautz Glacier on Mount Rainer (First Attempt)</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;The Kautz Glacier&lt;/span&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;figure&gt;&lt;figcaption&gt;Sensory deprevation.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-kautz/kautz-3.JPG&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;figcaption&gt;Toward the Turtle. Can you see it?&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-kautz/kautz-1.jpeg&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;figcaption&gt;Our tent.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-kautz/kautz-2.jpeg&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;figcaption&gt;Dissapointment.&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2021-kautz/kautz-0.jpeg&quot; /&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Sat, 08 May 2021 00:00:00 -0400</pubDate>
+        <link>/articles/21/kautz</link>
+        <guid isPermaLink="true">/articles/21/kautz</guid>
         
         
         <category>climbing</category>
