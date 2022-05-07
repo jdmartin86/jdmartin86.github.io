@@ -4,13 +4,18 @@ title: News
 ---
 
 # News & Activities
-**March 18, 2022:** I had two papers accepted to RLDM (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making).
+**May 6, 2022:** I had a workshop paper accepted at the ICRA  [Releasing Robots into the Wild Workshop](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/).
+
+The Stochastic Road Network Environment for Robust Reinforcement Learning,   
+**John D. Martin**, Paul Szenher, Xi Lin, Brendan Englot. [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)] 
+
+**March 18, 2022:** I had two papers accepted to [RLDM](https://rldm.org) (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making).
 
 Should Models Be Accurate?,  
-Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling. [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
 
 Adapting the Function Approximation Architecture in Online Reinforcement Learning,  
-**John D. Martin**\*,  Joseph Modayil\*, [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper pdf](https://arxiv.org/pdf/2106.09776)]
+**John D. Martin**\*,  Joseph Modayil\*. [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper pdf](https://arxiv.org/pdf/2106.09776)]
 
 
 **February 15, 2022:** I was named by the [IEEE Journal of Oceanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/) as an Outstanding Reviewer in 2021.
@@ -23,7 +28,7 @@ Adapting the Function Approximation Architecture in Online Reinforcement Learnin
 
 **November 10, 2020:** I gave a virtual talk to the [RAIL group](http://rail.eecs.berkeley.edu) at UC Berkeley.
 
-**July 1, 2020:** Three projects with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org).
+**July 1, 2020:** Three papers with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org).
 
 Variational Filtering with Copula Models for SLAM  
 **John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
@@ -39,7 +44,7 @@ John McConnell, **John D. Martin**, Brendan Englot. [[paper](https://arxiv.org/a
 **May 1, 2020:** I'm giving a guest lecture on uncertainty-aware reinforcement learning to the advanced robotics class for graduate students at Stevens Institute of Technology. [[slides](/assets/slides/2020-advanced_robotics_lecture.pdf)]
 
 **March 13, 2020:** Today I am showcasing my work on uncertainy-aware decision making as part of the [New York Academy of Sciences' 14th annual Machine Learning Symposium](https://www.nyas.org/events/2020/14th-annual-machine-learning-symposium/). [[poster](/assets/posters/2020-martin_etal-poster.pdf)]
- 
+
 **January 27, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with [Joseph Modayil](https://scholar.google.com/citations?user=G3pvUNEAAAAJ&hl=en). There I plan to study perception and discovery in the context of continual reinforcement learning.
 
 **November 4, 2019:** Visiting MIT to connect with [Tixiao Shan](https://tixiaoshan.github.io) at [CSAIL](https://www.csail.mit.edu) and learn about the [Roboat project](http://roboat.org). I'm giving a short talk to the group about my recent work. 

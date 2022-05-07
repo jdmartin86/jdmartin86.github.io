@@ -6,8 +6,12 @@ title: Research
 
 ## 2022
 Should Models Be Accurate?,  
-Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling  
+Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling,  
 *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+
+The Stochastic Road Network Environment for Robust Reinforcement Learning,  
+**John D. Martin**, Paul Szenher, Xi Lin, Brendan Englot,   
+*ICRA Workshop on Releasing Robots into the Wild* (2022) [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)]
 
 ## 2021
 
