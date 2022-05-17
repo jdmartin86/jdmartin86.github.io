@@ -5,19 +5,13 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 May 2022 17:31:33 -0400</pubDate>
-    <lastBuildDate>Tue, 10 May 2022 17:31:33 -0400</lastBuildDate>
+    <pubDate>Tue, 17 May 2022 10:05:08 -0400</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 10:05:08 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Hyalite</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;```&lt;/h2&gt;
-&lt;p&gt;layout: post
-title:  “Hyalite Canyon”
-date:   2022-01-15 
-categories: climbing
-—
-&lt;span class=&quot;newthought&quot;&gt;Hyalite&lt;/span&gt;&lt;/p&gt;
+        <title>Hyalite Canyon</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Hyalite&lt;/span&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/2022-hyalite/hyalite-8.jpeg&quot; /&gt;&lt;/figure&gt;
@@ -72,6 +66,8 @@ categories: climbing
         <link>/articles/22/hyalite</link>
         <guid isPermaLink="true">/articles/22/hyalite</guid>
         
+        
+        <category>climbing</category>
         
       </item>
     
