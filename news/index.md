@@ -7,7 +7,7 @@ title: News
 **May 25, 2022:** A position paper I wrote will appear at RLDM's [RL as a Model of Agency Workshop](https://sites.google.com/view/rl-as-agency/).
 
 Time to Take Embodiment Seriously,   
-**John D. Martin**.  
+**John D. Martin**.  [[pdf](/assets/papers/2022_rldm_agency_workshop.pdf)]  
 
 **May 6, 2022:** I had a workshop paper accepted at the ICRA  [Releasing Robots into the Wild Workshop](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/).
 

@@ -5,9 +5,15 @@ title: Research
 # Publications & Posters
 
 ## 2022
+Time to Take Embodiment Seriously,  
+**John D. Martin**,  
+*The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](/assets/papers/2022_rldm_agency_workshop.pdf)]
+
+
 Should Models Be Accurate?,  
 Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling,  
 *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+
 
 The Stochastic Road Network Environment for Robust Reinforcement Learning,  
 **John D. Martin**, Paul Szenher, Xi Lin, Brendan Englot,   
