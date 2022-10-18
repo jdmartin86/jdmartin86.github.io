@@ -26,6 +26,9 @@ jekyll build && jekyll serve -w
 ```
 
 Make sure rbenv is using Ruby 2.4.0 and Jekyll 2.5.3.
+```
+rbenv global 2.4.0
+```
 
 ## Demo
 

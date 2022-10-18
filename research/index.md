@@ -12,7 +12,7 @@ Time to Take Embodiment Seriously,
 
 Should Models Be Accurate?,  
 Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling,  
-*The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+*The Multi-disciplinary Conference on Reinforcement Learning and Decision Making* (2022) [[pdf](https://arxiv.org/pdf/2205.10736.pdf)]
 
 
 The Stochastic Road Network Environment for Robust Reinforcement Learning,  
