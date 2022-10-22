@@ -4,16 +4,16 @@ title: About
 # Note that this index page uses a full-width layout!
 ---
 <h1 class="content-listing-header sans">John D. Martin</h1>
-Currently I'm a post-doc researching artificial intelligence and reinforcement learning at the University of Alberta.
-I work with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) as a member of the [RLAI Lab](http://rlai.ualberta.ca). 
+I am a research scientist at Intel AI and a post-doc at the University of Alberta.
+My research focuses on artificial intelligence and reinforcement learning.
 
 I obtained my PhD from Stevens Institute of Technology, where I was advised by [Prof. Brendan Englot](http://personal.stevens.edu/~benglot/).
-I earned two undergraduate degrees in physics and aerospace engineering from the [University of Maryland](https://umdphysics.umd.edu).
-In the past, I also spent time at [DeepMind](https://deepmind.com), [Google Brain](https://ai.google), [Columbia University](https://www.columbia.edu), and [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/).
+As an undergraduate, I studed physics at the [University of Maryland](https://umdphysics.umd.edu).
+In the past, I have also spent time at [DeepMind](https://deepmind.com), [Google Brain](https://ai.google), [Columbia University](https://www.columbia.edu), and [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/).
 More details can be found in my [CV](/assets/cv/2022-martin-cv.pdf).
 
 ## Research Interests
-I want to understand how to design machines that are capable of learning and making intelligent decisions. My current research pertains to questions about the generality of resource-constrained, physical learning systems.
+I want to understand how to design machines that are capable of learning and making intelligent decisions. My current research pertains to questions about the generality of resource-constrained learning systems.
 
 Some specific questions I find interesting are: How can machines acquire knowledge from sensory signals whose interdependecies are unknown? 
 What are useful ways learning objectives can be automatically generated and curated?
