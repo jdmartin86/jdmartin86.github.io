@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**October, 2022:** I gave a talk at the UMass Amherst.
+
 **October, 2022:** A paper on prioritizing planning updates with online meta learning was accepted to the NeurIPS Meta Learning Workshop.
 
 **May, 2022:** A position paper I wrote will appear at RLDM's [RL as a Model of Agency Workshop](https://sites.google.com/view/rl-as-agency/).
