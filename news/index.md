@@ -8,6 +8,8 @@ title: News
 
 **September, 2022:** Started as a research scientist at Intel AI.
 
+**August, 2022:** Serving as a workflow chair for AAAI 2023.
+
 **May, 2022:** Talk at [RLDM Agency Workshop](https://sites.google.com/view/rl-as-agency/).
 
 Time to Take Embodiment Seriously,   
