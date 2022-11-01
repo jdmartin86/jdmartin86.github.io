@@ -4,69 +4,80 @@ title: News
 ---
 
 # News & Activities
-**October, 2022:** I gave a talk at UMass Amherst on our new NeurIPS workshop paper.
+**October, 2022:** Talk at UMass Amherst on our new NeurIPS workshop paper.
 
-**May, 2022:** A position paper I wrote will appear at RLDM's [RL as a Model of Agency Workshop](https://sites.google.com/view/rl-as-agency/).
+**September, 2022:** Started as a research scientist at Intel AI.
+
+**May, 2022:** Talk at [RLDM Agency Workshop](https://sites.google.com/view/rl-as-agency/).
 
 Time to Take Embodiment Seriously,   
-**John D. Martin**.  [[pdf](/assets/papers/2022_rldm_agency_workshop.pdf)]  
+*John D. Martin*.  [[pdf](/assets/papers/2022_rldm_agency_workshop.pdf)]  
 
-**May, 2022:** I had a workshop paper accepted at the ICRA  [Releasing Robots into the Wild Workshop](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/).
+**May, 2022:** ICRA workshop paper.
 
 The Stochastic Road Network Environment for Robust Reinforcement Learning,   
-**John D. Martin**, Paul Szenher, Xi Lin, Brendan Englot. [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)] 
+*John D. Martin*, Paul Szenher, Xi Lin, Brendan Englot. [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)] 
 
-**March, 2022:** I had two papers accepted to [RLDM](https://rldm.org) (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making).
+**March, 2022:** Two [RLDM](https://rldm.org) papers.
 
 Should Models Be Accurate?,  
-Esra'a Saleh, **John D. Martin**, Anna Koop, Arash Pourzarabi, Michael Bowling. [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
+Esra'a Saleh, *John D. Martin*, Anna Koop, Arash Pourzarabi, Michael Bowling. [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
 
 Adapting the Function Approximation Architecture in Online Reinforcement Learning,  
-**John D. Martin**\*,  Joseph Modayil\*. [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper pdf](https://arxiv.org/pdf/2106.09776)]
+*John D. Martin*\*,  Joseph Modayil\*. [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper pdf](https://arxiv.org/pdf/2106.09776)]
 
 
-**February, 2022:** I was named by the [IEEE Journal of Oceanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/) as an Outstanding Reviewer in 2021.
+**February, 2022:** Outstanding Reviewer award by the [IEEE Journal of Oceanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/).
 
-**December, 2021:** This week I am giving two lectures at the [Nepal Winter AI School](https://nepalschool.naamii.com.np), hosted by NAAMII. The first lecture is on introductory concepts of reinforcement learning [[slides](/assets/slides/2021-naamii-lec1.pdf)]. The second lecture is on reinforcement learning in moderntity [[slides](/assets/slides/2021-naamii-lec2.pdf)].
+**December, 2021:** Lecturing at the NAAMII [Nepal Winter AI School](https://nepalschool.naamii.com.np). [[Lecture 1 slides](/assets/slides/2021-naamii-lec1.pdf)] [[Lecture 2 slides](/assets/slides/2021-naamii-lec2.pdf)]
 
-**May, 2021:** Today, I started as a postdoctoral fellow at the [University of Alberta](https://www.ualberta.ca/index.html). I'm working with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) in the [RLAI Lab](http://rlai.ualberta.ca), studying artifical intelligence and decision making.
+**May, 2021:** Started a post-doc with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) at the University of Alberta!
 
-**April, 2021:** I sucessfully defended my PhD thesis: Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics.
+**April, 2021:** Sucessfully defended my PhD thesis. 
 
-**November, 2020:** I gave a virtual talk to the [RAIL group](http://rail.eecs.berkeley.edu) at UC Berkeley.
+Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics. [[pdf](/assets/papers/2021_dissertation.pdf)]
 
-**July, 2020:** Three papers with which I was involved have been accepted for publication at the [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org).
+**November, 2020:** Talk at UC Berkeley.
+
+**July, 2020:** Three IROS papers.
 
 Variational Filtering with Copula Models for SLAM  
-**John D. Martin***, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
+*John D. Martin**, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
 
 Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs  
-Fanfei Chen, **John D. Martin**, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper](https://arxiv.org/abs/2007.12640)]
+Fanfei Chen, *John D. Martin*, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper](https://arxiv.org/abs/2007.12640)]
 
 Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction  
-John McConnell, **John D. Martin**, Brendan Englot. [[paper](https://arxiv.org/abs/2007.10407)]
+John McConnell, *John D. Martin*, Brendan Englot. [[paper](https://arxiv.org/abs/2007.10407)]
 
-**June, 2020:** Our paper [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318) was accepted to the [International Conference on Machine Learning (ICML)](https://icml.cc)! [[paper](https://arxiv.org/abs/1905.07318)]
+**June, 2020:** ICML paper.
 
-**May, 2020:** I'm giving a guest lecture on uncertainty-aware reinforcement learning to the advanced robotics class for graduate students at Stevens Institute of Technology. [[slides](/assets/slides/2020-advanced_robotics_lecture.pdf)]
+Stochastically Dominant Distributional Reinforcement Learning   
+*John D. Martin*, Michal Lyskawinski, Xiaohu Li, Brendan Englot. [[paper](https://arxiv.org/abs/1905.07318)]
 
-**March, 2020:** Today I am showcasing my work on uncertainy-aware decision making as part of the [New York Academy of Sciences' 14th annual Machine Learning Symposium](https://www.nyas.org/events/2020/14th-annual-machine-learning-symposium/). [[poster](/assets/posters/2020-martin_etal-poster.pdf)]
+**May, 2020:** Guest lecture at Stevens Institute of Technology. [[slides](/assets/slides/2020-advanced_robotics_lecture.pdf)]
 
-**January, 2020:** I am thrilled to announce that I will be working at [DeepMind](https://deepmind.com) in Edmonton, Canada, as a research intern with [Joseph Modayil](https://scholar.google.com/citations?user=G3pvUNEAAAAJ&hl=en). There I plan to study perception and discovery in the context of continual reinforcement learning.
+**March, 2020:** Attended the [Annual Machine Learning Symposium at the New York Academy of Sciences](https://www.nyas.org/events/2020/14th-annual-machine-learning-symposium/). [[poster](/assets/posters/2020-martin_etal-poster.pdf)]
 
-**November, 2019:** Visiting MIT to connect with [Tixiao Shan](https://tixiaoshan.github.io) at [CSAIL](https://www.csail.mit.edu) and learn about the [Roboat project](http://roboat.org). I'm giving a short talk to the group about my recent work. 
+**January, 2020:** Interning with with [Joseph Modayil](https://scholar.google.com/citations?user=G3pvUNEAAAAJ&hl=en) at DeepMind in Edmonton, Canada.
 
-**October, 2019:** I'm giving a talk at [DeepMind](http://deepmind.com) in Edmonton, Canada, about how RL agents can benefit from organizing their experience into contexts.
+**November, 2019:** Talk at MIT. 
 
-**October, 2019:** Two of my projects will appear as NeurIPS workshop papers this year.   
-   * [Saftey and Robust Decison Making Workshop](https://sites.google.com/view/neurips19-safe-robust-workshop#h.p_iF36C6BL_elR): Stochastically Dominant Distributional Reinforcement Learning, **John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot.   
-   * [Biological and Artifical RL Workshop](https://sites.google.com/view/biologicalandartificialrl): Memento: Further Progress through Forgetting, William Fedus, Dibya Ghosh, **John D. Martin**, Marc G. Bellemare, Hugo Larochelle, Yoshua Bengio.
+**October, 2019:** Talk at DeepMind in Edmonton, Canada.
 
-**September, 2019:** I'm giving a talk about the disparate impacts of alpine climbing as part of the [American Alpine Club](https://americanalpineclub.org)'s Story Swap in Philadelphia [[link]](https://www.phillychapter-aac.org/journal/2019/9/06/john).
+**October, 2019:** Two NeurIPS workshop papers.
 
-**August, 2019:** I'm giving a talk at [Google Robotics](https://ai.google/research/teams/brain/robotics/) in New York City on exploiting transition invariance for efficient Reinforcement Learning in multi-stage settings.
+   Stochastically Dominant Distributional Reinforcement Learning  
+   *John D. Martin*,  Michal Lyskawinski, Xiaohu Li, Brendan Englot.   
+   
+   Memento: Further Progress through Forgetting  
+   William Fedus, Dibya Ghosh, *John D. Martin*, Marc G. Bellemare, Hugo Larochelle, Yoshua Bengio.
 
-**July, 2019:** I was featured in the journal of the [American Alpine Club](https://americanalpineclub.org)'s Philadelphia chapter, as part of my work with their winter mountaineering mentorship program [[link]](https://www.phillychapter-aac.org/journal/2019/6/29/mentoring-program-spotlight-john-martin). 
+**September, 2019:** Talk at the American Alpine Club. [[link](https://www.phillychapter-aac.org/journal/2019/9/06/john)]
 
-**March, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montréal, Canada, as a research intern with [Marc G. Bellemare](https://scholar.google.com/citations?user=uyYPun0AAAAJ&hl=en#)'s group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data.
+**August, 2019:** Talk at Google Robotics in New York City.
+
+**July, 2019:** Featured in the American Alpine Club journal from its Philadelphia chapter. [[link](https://www.phillychapter-aac.org/journal/2019/6/29/mentoring-program-spotlight-john-martin)] 
+
+**March, 2019:** Interning with [Marc G. Bellemare](https://scholar.google.com/citations?user=uyYPun0AAAAJ&hl=en#) at Google Brain.
 
