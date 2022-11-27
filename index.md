@@ -10,7 +10,7 @@ My research focuses on artificial intelligence and reinforcement learning.
 I obtained my PhD from Stevens Institute of Technology, where I was advised by [Prof. Brendan Englot](http://personal.stevens.edu/~benglot/).
 As an undergraduate, I studed physics at the [University of Maryland](https://umdphysics.umd.edu).
 In the past, I have also spent time at [DeepMind](https://deepmind.com), [Google Brain](https://ai.google), [Columbia University](https://www.columbia.edu), and [Sikorsky Aircraft](https://www.wired.com/story/sikorsky-sara-helicopter-autonomous-flying-car-air-taxi-tech/).
-More details can be found in my [CV](/assets/cv/2022-martin-cv.pdf).
+More details can be found in my [CV](/assets/cv/2023_martin_cv.pdf).
 
 ## Research Interests
 I want to understand how to design machines that are capable of learning and making intelligent decisions. My current research pertains to questions about the generality of resource-constrained learning systems.
