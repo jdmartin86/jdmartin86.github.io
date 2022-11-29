@@ -13,7 +13,7 @@ And in the past, I spent time at DeepMind, Google Brain, Columbia University, an
 More credentials can be found in my [CV](/assets/cv/2023_martin_cv.pdf).
 
 ## Research Interests
-I want to figure out how the computational aspects of intelligence can be understood with reinforcement learning.
+I want to figure out how computational aspects of intelligence can be understood with reinforcement learning.
 
 For instance:
 Can reward signals express all that we mean by "goals and purposes"? (The Reward Hypothesis.) 

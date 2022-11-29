@@ -17,7 +17,7 @@ Make sure rbenv is using Ruby 2.4.0 and Jekyll 2.5.3.
 rbenv global 2.4.0
 ```
 
-Run the following command to build `gh-pages` and deploy to `master`.
+Commit and push changes to `gh-pages` branch, then run the following command to build `gh-pages` and deploy to `master`.
 
 ```
 jgd -r gh-pages -b master
