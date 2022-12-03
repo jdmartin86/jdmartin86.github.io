@@ -4,7 +4,9 @@ title: News
 ---
 
 # News & Activities
-**October, 2022:** Talk at UMass Amherst on our new NeurIPS workshop paper.
+**December, 2022:** Two NeurIPS workshop papers.
+
+**October, 2022:** Talk at UMass Amherst.
 
 **September, 2022:** Started as a research scientist at Intel AI.
 
