@@ -7,7 +7,7 @@ title: Research
 ## 2022
 Learning to Prioritize Planning Updates in Model-based Reinforcement Learning,  
 Brad Burega, **John D. Martin**, Michael Bowling,  
-*NeurIPS Workshop on Meta Learning* (2022) [[pdf]](https://openreview.net/pdf?id=uR7ePjeB6z)
+*NeurIPS Workshop on Meta Learning* (2022) [[pdf](https://openreview.net/pdf?id=uR7ePjeB6z)]
 
 
 Time to Take Embodiment Seriously,  
