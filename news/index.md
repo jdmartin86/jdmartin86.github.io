@@ -4,7 +4,7 @@ title: News
 ---
 
 # News & Activities
-**December, 2022:** Two NeurIPS workshop papers.
+**December, 2022:** Two NeurIPS workshop papers: [[paper-1](https://openreview.net/forum?id=uR7ePjeB6z&referrer=%5Bthe%20profile%20of%20John%20D%20Martin%5D(%2Fprofile%3Fid%3D~John_D_Martin1))], [[paper-2](/assets/papers/2022_rldm_frogs_eye.pdf)].
 
 **October, 2022:** Talk at UMass Amherst.
 
@@ -14,22 +14,9 @@ title: News
 
 **May, 2022:** Talk at [RLDM Agency Workshop](https://sites.google.com/view/rl-as-agency/).
 
-Time to Take Embodiment Seriously,   
-*John D. Martin*.  [[pdf](/assets/papers/2022_rldm_agency_workshop.pdf)]  
+**May, 2022:** ICRA workshop paper: [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)]. 
 
-**May, 2022:** ICRA workshop paper.
-
-The Stochastic Road Network Environment for Robust Reinforcement Learning,   
-*John D. Martin*, Paul Szenher, Xi Lin, Brendan Englot. [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)] 
-
-**March, 2022:** Two [RLDM](https://rldm.org) papers.
-
-Should Models Be Accurate?,  
-Esra'a Saleh, *John D. Martin*, Anna Koop, Arash Pourzarabi, Michael Bowling. [[pdf](/assets/papers/2022_rldm_useful_models.pdf)]
-
-Adapting the Function Approximation Architecture in Online Reinforcement Learning,  
-*John D. Martin*\*,  Joseph Modayil\*. [[pdf](/assets/papers/2022_rldm_frogs_eye.pdf)] [[code](https://github.com/jdmartin86/frogseye)] [[full paper pdf](https://arxiv.org/pdf/2106.09776)]
-
+**March, 2022:** Three [RLDM](https://rldm.org) papers: [[pdf-1](/assets/papers/2022_rldm_agency_workshop.pdf)], [[pdf-2](/assets/papers/2022_rldm_useful_models.pdf)], [[pdf-3](/assets/papers/2022_rldm_frogs_eye.pdf)].
 
 **February, 2022:** Outstanding Reviewer award by the [IEEE Journal of Oceanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/).
 
@@ -37,27 +24,13 @@ Adapting the Function Approximation Architecture in Online Reinforcement Learnin
 
 **May, 2021:** Started a post-doc with [Michael Bowling](http://webdocs.cs.ualberta.ca/~bowling/index.html) at the University of Alberta!
 
-**April, 2021:** Sucessfully defended my PhD thesis. 
-
-Reinforcement Learning Algorithms for Representing and Managing Uncertainty in Robotics. [[pdf](/assets/papers/2021_dissertation.pdf)]
+**April, 2021:** Sucessfully defended my PhD thesis! [[pdf](/assets/papers/2021_dissertation.pdf)].
 
 **November, 2020:** Talk at UC Berkeley.
 
-**July, 2020:** Three IROS papers.
+**July, 2020:** Three IROS papers: [[paper-1](https://arxiv.org/abs/2008.00504)], [[paper-2](https://arxiv.org/abs/2007.12640)], [[paper-3](https://arxiv.org/abs/2007.10407)].
 
-Variational Filtering with Copula Models for SLAM  
-*John D. Martin**, Kevin Doherty\*, Caralyn Cyr, Brendan Englot, John Leonard. [[paper](https://arxiv.org/abs/2008.00504)]
-
-Autonomous Exploration Under Uncertainty via Deep Reinforcement Learning on Graphs  
-Fanfei Chen, *John D. Martin*, Yewei Huang, Jinkun Wang, Brendan Englot. [[paper](https://arxiv.org/abs/2007.12640)]
-
-Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction  
-John McConnell, *John D. Martin*, Brendan Englot. [[paper](https://arxiv.org/abs/2007.10407)]
-
-**June, 2020:** ICML paper.
-
-Stochastically Dominant Distributional Reinforcement Learning   
-*John D. Martin*, Michal Lyskawinski, Xiaohu Li, Brendan Englot. [[paper](https://arxiv.org/abs/1905.07318)]
+**June, 2020:** ICML paper: [[paper](https://arxiv.org/abs/1905.07318)].
 
 **May, 2020:** Guest lecture at Stevens Institute of Technology. [[slides](/assets/slides/2020-advanced_robotics_lecture.pdf)]
 
@@ -70,13 +43,7 @@ Stochastically Dominant Distributional Reinforcement Learning
 **October, 2019:** Talk at DeepMind in Edmonton, Canada.
 
 **October, 2019:** Two NeurIPS workshop papers.
-
-   Stochastically Dominant Distributional Reinforcement Learning  
-   *John D. Martin*,  Michal Lyskawinski, Xiaohu Li, Brendan Englot.   
    
-   Memento: Further Progress through Forgetting  
-   William Fedus, Dibya Ghosh, *John D. Martin*, Marc G. Bellemare, Hugo Larochelle, Yoshua Bengio.
-
 **September, 2019:** Talk at the American Alpine Club. [[link](https://www.phillychapter-aac.org/journal/2019/9/06/john)]
 
 **August, 2019:** Talk at Google Robotics in New York City.
