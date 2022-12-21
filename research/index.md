@@ -4,7 +4,15 @@ title: Research
 ---
 # Publications & Posters
 
+{% smalltext '\* denotes joint first authorship.' %}
+
+
 ## 2022
+Settling the Reward Hypothesis,  
+Michael Bowling\*, **John D. Martin**\*, David Abel, Will Dabney,  
+*ArXiv* (2022) [[pdf](https://arxiv.org/pdf/2212.10420.pdf)]
+
+
 Learning to Prioritize Planning Updates in Model-based Reinforcement Learning,  
 Brad Burega, **John D. Martin**, Michael Bowling,  
 *NeurIPS Workshop on Meta Learning* (2022) [[pdf](https://openreview.net/pdf?id=uR7ePjeB6z)]
