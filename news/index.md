@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**February, 2022:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
+
 **December, 2022:** New paper on settling the reward hypothesis: [[pdf](https://arxiv.org/pdf/2212.10420.pdf)].
 
 **December, 2022:** Two NeurIPS workshop papers: [[paper-1](https://openreview.net/forum?id=uR7ePjeB6z&referrer=%5Bthe%20profile%20of%20John%20D%20Martin%5D(%2Fprofile%3Fid%3D~John_D_Martin1))], [[paper-2](/assets/papers/2022_rldm_frogs_eye.pdf)].
