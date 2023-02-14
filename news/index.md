@@ -4,7 +4,7 @@ title: News
 ---
 
 # News & Activities
-**February, 2022:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
+**February, 2023:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
 
 **December, 2022:** New paper on settling the reward hypothesis: [[pdf](https://arxiv.org/pdf/2212.10420.pdf)].
 
