@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**March, 2023:** Two ICLR workshop papers, led by Raphel Rafailov [[pdf-1](https://openreview.net/pdf?id=cH8XVu9hUV)], [[pdf-2](https://openreview.net/pdf?id=QPajRB7ISyB)].
+
 **February, 2023:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
 
 **December, 2022:** New paper on settling the reward hypothesis: [[pdf](https://arxiv.org/pdf/2212.10420.pdf)].
@@ -20,7 +22,7 @@ title: News
 
 **May, 2022:** ICRA workshop paper: [[pdf](/assets/papers/2022_icra_workshop_srn.pdf)]. 
 
-**March, 2022:** Three [RLDM](https://rldm.org) papers: [[pdf-1](/assets/papers/2022_rldm_agency_workshop.pdf)], [[pdf-2](/assets/papers/2022_rldm_useful_models.pdf)], [[pdf-3](/assets/papers/2022_rldm_frogs_eye.pdf)].
+**March, 2022:** Three [RLDM](https://rldm.org) papers: [[pdf-1](/assets/papers/2022_rldm_agency_workshop.pdf)], [[pdf-2](https://arxiv.org/pdf/2205.10736.pdf)], [[pdf-3](/assets/papers/2022_rldm_frogs_eye.pdf)].
 
 **February, 2022:** Outstanding Reviewer award by the [IEEE Journal of Oceanic Engineering](https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering/).
 
