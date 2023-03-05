@@ -4,7 +4,7 @@ title: News
 ---
 
 # News & Activities
-**March, 2023:** Two ICLR workshop papers, led by Raphel Rafailov [[pdf-1](https://openreview.net/pdf?id=cH8XVu9hUV)], [[pdf-2](https://openreview.net/pdf?id=QPajRB7ISyB)].
+**March, 2023:** Two ICLR workshop papers, led by [Raphel Rafailov](https://rmrafailov.github.io): [[pdf-1](https://openreview.net/pdf?id=cH8XVu9hUV)], [[pdf-2](https://openreview.net/pdf?id=QPajRB7ISyB)].
 
 **February, 2023:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
 
