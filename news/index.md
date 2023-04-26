@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**July, 2023:** Starting as an Adjunct Professor of Computing Science at the University of Alberta. 
+
 **April, 2023:** [Settling the Reward Hypothesis](https://openreview.net/pdf?id=GtoeseQjtY), accepted to ICML 2023 as an oral!
 
 **March, 2023:** Two ICLR workshop papers, led by [Rafael Rafailov](https://rmrafailov.github.io): [[pdf-1](https://openreview.net/pdf?id=cH8XVu9hUV)], [[pdf-2](https://openreview.net/pdf?id=QPajRB7ISyB)].
