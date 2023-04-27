@@ -29,4 +29,4 @@ I believe progress in reinforcement learning will lead to more a principled desi
 
 Much of my research draws inspiration from the work of my peers in statistical machine learning, cognitive and neurological science, economics, and philosophy. 
 I often approach problems with a mixture of theory and empirical practice.
-I like to mathematically formalize philosophical concepts, then form hypotheses which can be rigorously tested with computational experiments.  
+I like to formalize philosophical concepts in mathemetical terms, then form hypotheses which can be rigorously tested with computational experiments.  
