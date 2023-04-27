@@ -19,7 +19,7 @@ Rafael Rafailov, Kyle Beltran Hatch, Victor Kolev, **John D Martin**, Mariano Ph
 
 Model-based Adversarial Imitation Learning as Online Fine-tuning
 Rafael Rafailov, Victor Kolev, Kyle Beltran Hatch, **John D Martin**, Mariano Phielipp, Jiajun Wu, Chelsea Finn,
-*ICLR Reincarnating Reinforcement Learning Workshop* (2023) [[pdf](https://openreview.net/pdf?id=cH8XVu9hUV)]
+*ICLR Reincarnating Reinforcement Learning Workshop* (2023) [[pdf](https://openreview.net/pdf?id=QPajRB7ISyB)]
 
 
 ## 2022
