@@ -4,16 +4,16 @@ title: About
 # Note that this index page uses a full-width layout!
 ---
 <h1 class="content-listing-header sans">John D. Martin</h1>
-I am a research scientist at Intel AI.
+I am a research scientist at Intel AI and an adjunct professor at the University of Alberta.
 
-I recently completed a post-doc with Michael Bowling at the University of Alberta.
+I completed a post-doc with Michael Bowling at the University of Alberta.
 I obtained my PhD from Stevens Institute of Technology, where I was advised by [Brendan Englot](http://personal.stevens.edu/~benglot/).
 As an undergraduate, I studed physics at the University of Maryland.
 And in the past, I spent time at DeepMind, Google Brain, Columbia University, and Sikorsky Aircraft.
 More credentials can be found in my [CV](/assets/cv/2023_martin_cv.pdf).
 
 ## Research Interests
-I want to figure out how computational aspects of intelligence can be understood with reinforcement learning.
+I want to figure out how the computational aspects of intelligence can be understood with reinforcement learning.
 
 For instance:
 Can reward signals express all that we mean by "goals and purposes"? ([The Reward Hypothesis](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/rewardhypothesis.html).) 
