@@ -6,6 +6,21 @@ title: Research
 
 {% smalltext '\* denotes joint first authorship.' %}
 
+## 2023
+Settling the Reward Hypothesis,  
+Michael Bowling\*, **John D. Martin**\*, David Abel, Will Dabney,  
+*ICML* (2023) [[pdf](https://arxiv.org/pdf/2212.10420.pdf)] (Oral)
+
+
+MOTO: Offline to Online Fine-tuning for Model-Based Reinforcement Learning,
+Rafael Rafailov, Kyle Beltran Hatch, Victor Kolev, **John D Martin**, Mariano Phielipp, Chelsea Finn,
+*ICLR Reincarnating Reinforcement Learning Workshop* (2023) [[pdf](https://openreview.net/pdf?id=cH8XVu9hUV)]
+
+
+Model-based Adversarial Imitation Learning as Online Fine-tuning
+Rafael Rafailov, Victor Kolev, Kyle Beltran Hatch, **John D Martin**, Mariano Phielipp, Jiajun Wu, Chelsea Finn,
+*ICLR Reincarnating Reinforcement Learning Workshop* (2023) [[pdf](https://openreview.net/pdf?id=cH8XVu9hUV)]
+
 
 ## 2022
 Settling the Reward Hypothesis,  
