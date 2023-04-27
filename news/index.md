@@ -4,7 +4,7 @@ title: News
 ---
 
 # News & Activities
-**July, 2023:** Starting as an Adjunct Professor of Computing Science at the University of Alberta. 
+**April, 2023:** Appointed as an Adjunct Professor of Computing Science at the University of Alberta. 
 
 **April, 2023:** [Settling the Reward Hypothesis](https://openreview.net/pdf?id=GtoeseQjtY), accepted to ICML 2023 as an oral!
 
