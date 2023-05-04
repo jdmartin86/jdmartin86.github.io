@@ -4,7 +4,7 @@ title: About
 # Note that this index page uses a full-width layout!
 ---
 <h1 class="content-listing-header sans">John D. Martin</h1>
-I am a research scientist at Intel AI and an adjunct professor at the University of Alberta.
+I am a Research Scientist at Intel AI and an Adjunct Professor at the University of Alberta.
 
 I completed a post-doc with Michael Bowling at the University of Alberta.
 I obtained my PhD from Stevens Institute of Technology, where I was advised by [Brendan Englot](http://personal.stevens.edu/~benglot/).
