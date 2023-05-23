@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**May, 2023:** Attending Upperbound in Edmonton, Canada. 
+
 **April, 2023:** Appointed Adjunct Professor of Computing Science at the University of Alberta. 
 
 **April, 2023:** [Settling the Reward Hypothesis](https://openreview.net/pdf?id=GtoeseQjtY), accepted to ICML 2023 as an oral!
