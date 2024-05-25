@@ -4,6 +4,8 @@ title: News
 ---
 
 # News & Activities
+**March, 2024:** Organizing an RLC Workshop: [Finding the Frame](https://sites.google.com/view/findingtheframe/). 
+
 **July, 2023:** Attending ICML in Honolulu to present [Settling the Reward Hypothesis](https://openreview.net/pdf?id=GtoeseQjtY). 
 
 **May, 2023:** Attending Upperbound in Edmonton, Canada. 
