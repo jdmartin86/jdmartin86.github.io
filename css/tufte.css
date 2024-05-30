@@ -203,7 +203,7 @@ th, td { font-size: 1.2rem; line-height: 1.71428571; }
 .booktabs tbody tr:first-child td, tr:first-child td { padding-top: 0.65ex; }
 
 /* add space between thead row and tbody */
-.booktabs td, td { padding-left: 0.5em; padding-right: 0.5em; text-align: left; }
+.booktabs td, td { padding-left: 0.5em; padding-right: 0.5em; text-align: justify; }
 
 .booktabs caption, caption { font-size: 90%; text-align: left; width: auto; margin-left: auto; margin-right: auto; margin-top: 1ex; caption-side: top; }
 
@@ -229,7 +229,12 @@ figcaption { float: right; clear: right; margin-right: -48%; margin-top: 0; marg
 
 figure.fullwidth figcaption { float: left; margin-right: 0%; margin-left: 36%; }
 
-img { max-width: 100%; }
+img { max-width: 100%; 
+  margin-top: 50px; /* Top margin */
+  margin-right: 50px; /* Right margin */
+  margin-bottom: 50px; /* Bottom margin */
+  margin-left: 50px; /* Left margin */
+}
 
 .sidenote, .marginnote { float: right; clear: right; margin-right: -60%; width: 50%; margin-top: 0; margin-bottom: 1.96rem; font-size: 1.0rem; line-height: 1.96; vertical-align: baseline; position: relative; }
 
@@ -310,7 +315,7 @@ ul.footer-links li { display: inline; padding: 0.5rem 0.25rem; }
 
 body.full-width, .content-listing, ul.content-listing li.listing { width: 90%; margin-left: auto; margin-right: auto; padding: 0% 5%; }
 
-.full-width article p { width: 90%; }
+.full-width article p { width: 70%; }
 
 h1.content-listing-header { font-style: normal; text-transform: uppercase; letter-spacing: 0.2rem; font-size: 1.8rem; }
 
