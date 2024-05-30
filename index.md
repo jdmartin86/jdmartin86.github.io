@@ -1,7 +1,6 @@
 ---
 layout: post
 title: About
-# Note that this index page uses a full-width layout!
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 
