@@ -121,7 +121,7 @@
 .highlight .si { color: #d14; }
 
 .highlight .sx { color: #d14; }
-
+ 
 .highlight .sr { color: #009926; }
 
 .highlight .s1 { color: #d14; }
@@ -175,7 +175,7 @@ h3 { font-style: italic; font-weight: 400; font-size: 1.8rem; margin-top: 2.1777
 
 p .subtitle { font-style: italic; margin-top: 2.1777777777777778rem; margin-bottom: 2.1777777777777778rem; font-size: 1.8rem; display: block; line-height: 1.08888888888889; }
 
-p, ol, ul { font-size: 1.4rem; }
+p, ol, ul { font-size: 1.1rem; }
 
 p, li { line-height: 2rem; margin-top: 1.4rem; padding-right: 2rem; vertical-align: baseline; }
 
