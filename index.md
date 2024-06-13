@@ -8,7 +8,7 @@ I am a Research Scientist at Intel AI and an Adjunct Professor at the University
 
 My goal is to establish conceptual and mathematical foundations for the science of artificial intelligence.   
 
-I value philosophically-grounded work with empirical cash value. I often approach problems from first principles, by taking a philosophical position then translating it into mathematical claims which can be analyzed through theory and computational experiments.
+I value philosophically-grounded work with empirical cash-value. I often approach problems from first principles, by taking a philosophical position then translating it into mathematical claims which can be analyzed through theory and computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
 **June, 2024:** Talk at Cohere for AI.  
 **March, 2024:** Co-organizing an RLC Workshop: [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
