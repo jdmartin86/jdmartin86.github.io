@@ -6,7 +6,7 @@ title: About
 
 I am a Research Scientist at Intel AI and an Adjunct Professor at the University of Alberta.
 
-My goal is to establish the conceptual and mathematical foundations for the science of artificial intelligence.   
+My goal is to establish conceptual and mathematical foundations for the science of artificial intelligence.   
 
 I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can then be analyzed theoretically or with computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
