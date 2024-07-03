@@ -5,6 +5,11 @@ title: Research
 # Publications & Posters
 
 {% smalltext '\* denotes joint first authorship.' %}
+## 2024
+Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning,  
+Brad Burega\*, **John D. Martin**\*, Luke Kapeluck, Michael Bowling,  
+*ArXiv* (2024) [[pdf](https://arxiv.org/pdf/2406.19561)] 
+
 
 ## 2023
 Settling the Reward Hypothesis,  
