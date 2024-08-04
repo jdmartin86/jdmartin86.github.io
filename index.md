@@ -8,7 +8,7 @@ I am a Research Scientist at Intel AI and an Adjunct Professor at the University
 
 My goal is to establish conceptual and mathematical foundations for the science of artificial intelligence.   
 
-I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed and tested with computational experiments.
+I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed with computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
 **July, 2024:** New paper on Meta-Gradient Search Control: [[pdf](https://arxiv.org/pdf/2406.19561)].  
 **June, 2024:** Talk at Cohere for AI.  
