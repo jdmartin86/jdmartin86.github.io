@@ -6,10 +6,11 @@ title: About
 
 I am a Research Scientist at Intel AI and an Adjunct Professor at the University of Alberta.
 
-My goal is to establish conceptual and mathematical foundations for the science of artificial intelligence.   
+My goal is to establish conceptual, mathematical, and algorithmic foundations for the science of artificial intelligence.   
 
 I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed with computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
+**August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
 **July, 2024:** New paper on Meta-Gradient Search Control: [[pdf](https://arxiv.org/pdf/2406.19561)].  
 **June, 2024:** Talk at Cohere for AI.  
 **March, 2024:** Co-organizing an RLC Workshop: [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
