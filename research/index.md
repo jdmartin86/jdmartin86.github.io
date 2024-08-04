@@ -3,7 +3,8 @@ layout: post
 title: Research
 ---
 I want to contribute to a future where AI systems are safe, understandable, and reliable.
-I believe the best way to pursue this mission is by focusing on the scientific foundations of AI: in particular, goal specification and reinforcement learning as they relate to computation.
+To pursue this mission, I focus on fundamental questions with the goal of identifying foundational concepts and laws that will underpin the science of AI.
+My primary interests are reinforcement learning, goal specification, methods for achieving generality in AI, and computatonal manifestations of the "4Es" (extension, embodiment, enaction, embedment).
 
 
 <h2 class="content-listing-header sans">Publications</h2>
