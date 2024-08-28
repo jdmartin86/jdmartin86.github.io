@@ -10,6 +10,7 @@ My goal is to establish conceptual, mathematical, and algorithmic foundations fo
 
 I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed with computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
+**August, 2024:** Visiting the University of Alberta, giving a teatime talk at RLAI.  
 **August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
 **July, 2024:** New paper on Meta-Gradient Search Control: [[pdf](https://arxiv.org/pdf/2406.19561)].  
 **June, 2024:** Talk at Cohere for AI.  
