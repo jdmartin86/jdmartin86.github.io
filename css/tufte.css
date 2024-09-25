@@ -229,6 +229,21 @@ figcaption { float: right; clear: right; margin-right: -48%; margin-top: 0; marg
 
 figure.fullwidth figcaption { float: left; margin-right: 0%; margin-left: 36%; }
 
+.w3-round-small{border-radius:2px}.w3-round,.w3-round-medium{border-radius:4px}.w3-round-large{border-radius:8px}.w3-round-xlarge{border-radius:16px}.w3-round-xxlarge{border-radius:32px}
+
+.colPortrait
+{
+  margin-bottom: 8px;
+  border-radius: 10px;
+}
+
+#collaboratorWrapper
+{
+  text-align: center;
+  margin-left: -30%;
+}
+
+
 img { max-width: 100%; 
   margin-top: 50px; /* Top margin */
   margin-right: 50px; /* Right margin */
