@@ -10,6 +10,7 @@ My goal is to establish conceptual, mathematical, and algorithmic foundations fo
 
 I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed with computational experiments.
 <h2 class="content-listing-header sans">NEWS</h2>
+**October, 2024:** Attending the [OpenMind](https://www.openmindresearch.org/) Retreat in Banff, Alberta.  
 **October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** UofA Teatime Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
