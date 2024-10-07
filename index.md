@@ -6,9 +6,10 @@ title: About
 
 I am a Research Scientist at Intel AI and an Adjunct Professor at the University of Alberta.
 
-My goal is to establish conceptual, mathematical, and algorithmic foundations for the science of artificial intelligence.   
+My goal is to develop the conceptual, methodological, and mathematical foundations for the science of AI. 
 
-I value conceptually-grounded work with empirical cash-value. I often approach problems from first principles, by translating philosophical ideas into mathematical terms which can be analyzed with computational experiments.
+I am specifically interested in how the computational aspects of intelligence and agency can be understood through the lens of Reinforcement Learning. My work strives not just to identify these aspects but to translate them into concrete, algorithmic terms with empirical cash-value. I love to frame new problems, and I often take a first principles approach—translating a conceptual idea into mathematical terms which can then be analyzed, programmed, and tested with computational experiments.
+
 <h2 class="content-listing-header sans">NEWS</h2>
 **October, 2024:** Attending the [OpenMind](https://www.openmindresearch.org/) Retreat in Banff, Alberta.  
 **October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
