@@ -4,7 +4,7 @@ title: About
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 
-I am a Research Scientist at Intel AI and an Adjunct Professor at the University of Alberta.
+I am a Fellow of the Openmind Research Institute and an Adjunct Professor at the University of Alberta.
 
 My goal is to develop the conceptual, methodological, and mathematical foundations for the science of AI. 
 
