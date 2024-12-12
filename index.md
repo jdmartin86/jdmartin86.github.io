@@ -4,14 +4,16 @@ title: About
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 
-I am a Fellow of the Openmind Research Institute and an Adjunct Professor at the University of Alberta.
+I am a Research Fellow at the Openmind Research Institute and an Adjunct Professor at the University of Alberta.
 
 My goal is to develop the conceptual, methodological, and mathematical foundations for the science of AI. 
 
 I am specifically interested in how the computational aspects of intelligence and agency can be understood through the lens of Reinforcement Learning. My work strives not just to identify these aspects but to translate them into concrete, algorithmic terms with empirical cash-value. I love to frame new problems, and I often take a first principles approach—translating a conceptual idea into mathematical terms which can then be analyzed, programmed, and tested with computational experiments.
 
 <h2 class="content-listing-header sans">NEWS</h2>
-**October, 2024:** Attending the [OpenMind](https://www.openmindresearch.org/) Retreat in Banff, Alberta.  
+**December, 2024:** [Openmind](https://www.openmindresearch.org/) retreat in Singapore.  
+**December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
+**October, 2024:** [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
 **October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** UofA Teatime Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
