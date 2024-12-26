@@ -11,9 +11,9 @@ My goal is to develop the foundations for a science of artificial minds.
 Much of my work focuses on how the phenomena of mind can be understood with computation and reinforcement learning. I value research that brings definition to important aspects of our lived experience, and theory that cashes out with empirical impact.  
 
 <h2 class="content-listing-header sans">NEWS</h2>
-**December, 2024:** [Openmind](https://www.openmindresearch.org/) retreat in Singapore.  
+**December, 2024:** On a panel at the [Openmind](https://www.openmindresearch.org/) retreat in Singapore.  
 **December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
-**October, 2024:** [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
+**October, 2024:** Talk at the [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
 **October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** UofA Teatime Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
