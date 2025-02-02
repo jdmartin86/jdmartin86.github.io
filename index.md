@@ -6,11 +6,13 @@ title: About
 
 I am a Fellow at the Openmind Research Institute, and an Adjunct Professor of Computing Science at the University of Alberta.
 
-My goal is to develop the foundations for a science of artificial minds. 
+My goal is to develop and understand the computational foundations of artificial minds. 
 
-Much of my work focuses on how the phenomena of mind can be understood with computation and reinforcement learning. I value research that brings definition to important aspects of our lived experience, and theory that cashes out with empirical impact.  
+Much of my work focuses on how mental phenomena can be understood with computation and reinforcement learning. I value research that brings definition to important aspects of our lived experience, and theory that cashes out with empirical impact.  
 
 <h2 class="content-listing-header sans">NEWS</h2>
+**January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [On the Interplay between Sparsity and Training in Deep Reinforcement Learning](https://arxiv.org/abs/2501.16729).  
+**January, 2025:** Co-organizing an RLDM workshop: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home).  
 **December, 2024:** On a panel at the [Openmind](https://www.openmindresearch.org/) retreat in Singapore.  
 **December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
 **October, 2024:** Talk at the [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
