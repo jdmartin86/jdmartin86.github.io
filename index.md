@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+nav_order: 1
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 

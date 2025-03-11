@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Research
+nav_order: 2
 ---
 
 My research aims to understand the mind.
