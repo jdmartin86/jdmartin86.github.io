@@ -4,16 +4,23 @@ title: About
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 
-I am a Fellow at the Openmind Research Institute, and an Adjunct Professor of Computing Science at the University of Alberta.
+I am a Fellow at the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor of Computing Science at the University of Alberta.
 
-My goal is to develop and understand the computational foundations of artificial minds. 
+My goal is to understand the computational principles giving rise to both natural and artificial minds. I want to bring definition to the core phenomena we associate with intelligence. This means explaining how agents solve complex problems, acquire and represent knowledge, interact with their surroundings, and learn from experience. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy---to develop new algorithms and mathematical theories of empirical value.
 
-Much of my work focuses on how mental phenomena can be understood with computation and reinforcement learning. I value research that brings definition to important aspects of our lived experience, and theory that cashes out with empirical impact.  
+<!-- I strive for my work to have both empirical and philosphical value.  -->
+<!-- I want to articulate how the phenomena we associate with intelligence can be unified under a core set of concepts and laws.  -->
+<!-- I want to articulate the concepts and laws that explain core phenomena we associate with intelligence. -->
+<!-- Furthermore, I want to understand how such concepts inform scientific models that can be tested. -->
+<!-- My research uses algorithms and mathematical theory, and I draw inspiraction from my peers across computer science, cognitive studies, and philosophy.  -->
+
+Much of my research frames quesitons within the reinforcement learning paradigm. I am currently thinking about [goal specification](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf), theoretically-sound algorithms for translating preferences to rewards, as well as a computational theory of interacton and agency. Over the years I have studied a broad range of topics, including [meta-learning methods](https://arxiv.org/pdf/2406.19561) for efficient search, flexible architectures for [organizing unstructured data](https://arxiv.org/pdf/2106.09776), uncertainty and risk mitigation with [distributional RL](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf), as well as various applied problems in chip design, robotics, and aviation. Long ago I helped build the world's first [full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
 
 <h2 class="content-listing-header sans">NEWS</h2>
-**January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [On the Interplay between Sparsity and Training in Deep Reinforcement Learning](https://arxiv.org/abs/2501.16729).  
+**March, 2025:** Visiting UofA and Openmind in Edmonton, Alberta.  
+**January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [[pdf](https://arxiv.org/pdf/2501.16729)].  
 **January, 2025:** Co-organizing an RLDM workshop: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home).  
-**December, 2024:** On a panel at the [Openmind](https://www.openmindresearch.org/) retreat in Singapore.  
+**December, 2024:** Spoke about embodiment at the Openmind retreat in Singapore.  
 **December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
 **October, 2024:** Talk at the [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
 **October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
