@@ -2,13 +2,12 @@
 layout: post
 title: Research
 ---
-I want to contribute to a future where AI systems are safe, understandable, and reliable.
-To pursue this mission, I focus on fundamental questions with the goal of identifying foundational concepts and laws that will underpin the science of AI.
-My primary interests are reinforcement learning, goal specification, methods for achieving generality in AI, and computatonal manifestations of the "4Es" (extension, embodiment, enaction, embedment).
-
 
 <h2 class="content-listing-header sans">Publications</h2>
 {% smalltext '\* denotes joint first authorship.' %}
+On the Interplay Between Sparsity and Training in Deep Reinforcement Learning,  
+Fatima Davelouis, John D Martin, Michael Bowling  
+*ArXiv* (2025) [[pdf](https://arxiv.org/pdf/2501.16729)] 
 
 Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning,  
 Brad Burega\*, **John D. Martin**\*, Luke Kapeluck, Michael Bowling,  
