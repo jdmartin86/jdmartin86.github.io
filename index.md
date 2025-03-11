@@ -6,7 +6,7 @@ title: About
 
 I am a Fellow at the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor of Computing Science at the University of Alberta.
 
-My goal is to understand the computational principles giving rise to both natural and artificial minds. I want to bring definition to the core phenomena we associate with intelligence. This means explaining how agents solve complex problems, acquire and represent knowledge, interact with their surroundings, and learn from experience. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy---to develop new algorithms and mathematical theories of empirical value.
+My goal is to understand the computational principles giving rise to both natural and artificial minds. I want to bring definition to the core phenomena we associate with intelligence. This means explaining how agents solve complex problems, acquire and represent knowledge, interact with their surroundings, and learn from their experiences. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy---to develop new algorithms and mathematical theories with empirical impact.
 
 <!-- I strive for my work to have both empirical and philosphical value.  -->
 <!-- I want to articulate how the phenomena we associate with intelligence can be unified under a core set of concepts and laws.  -->
