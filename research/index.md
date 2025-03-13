@@ -4,7 +4,7 @@ title: Research
 nav_order: 2
 ---
 
-My research aims to understand the mind.
+My research aims to understand the mind through computation and mathematics.
 I believe fundamental work in this area can contribute to a future of greater rationality, also one where AI systems are understandable, reliable, and safe. I borrow ideas and methods from across many disciplines to make progress. Some of my favorite subjects to explore currently relate to reinforcement learning, goal specification, computation, and the philosophy of science.
 
 
