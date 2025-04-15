@@ -18,6 +18,7 @@ My goal is to understand the computational principles behind both natural and ar
 Much of my research frames quesitons within the reinforcement learning paradigm. I am currently thinking about [goal specification](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf), theoretically-sound algorithms for translating preferences to rewards, as well as how computation imposes limits on interacton and agency. Over the years I have studied a broad range of topics, including [meta-learning methods](https://arxiv.org/pdf/2406.19561) for efficient search, flexible architectures for [organizing unstructured sense data](https://arxiv.org/pdf/2106.09776), strategies for risk mitigation using [distributional RL](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf), as well as various applied problems in chip design, robotics, and aviation. Long ago I helped build the world's first [full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
 
 <h2 class="content-listing-header sans">NEWS</h2>
+**July, 2025:** Visiting Caltech and JPL.  
 **March, 2025:** Steering committee for the second edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
 **March, 2025:** Talk at Openmind workshop in Edmonton, Alberta.  
 **January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [[pdf](https://arxiv.org/pdf/2501.16729)].  
