@@ -19,6 +19,7 @@ Much of my research frames quesitons within the reinforcement learning paradigm.
 
 <h2 class="content-listing-header sans">NEWS</h2>
 **July, 2025:** Visiting Caltech and JPL.  
+**June, 2025:** Attending RLDM at Trinity College in Dublin, Ireland.  
 **March, 2025:** Steering committee for the second edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
 **March, 2025:** Talk at Openmind workshop in Edmonton, Alberta.  
 **January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [[pdf](https://arxiv.org/pdf/2501.16729)].  
