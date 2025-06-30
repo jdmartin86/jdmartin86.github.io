@@ -9,18 +9,14 @@ I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.
 
 My goal is to understand the computational principles behind both natural and artificial minds. I want to bring definition to the core phenomena we associate with intelligence. This means explaining how agents solve complex problems, acquire and represent knowledge, interact with their surroundings, and learn from their experiences. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy---to develop new algorithms and mathematical theories with meaningful empirical impact.
 
-<!-- I strive for my work to have both empirical and philosphical value.  -->
-<!-- I want to articulate how the phenomena we associate with intelligence can be unified under a core set of concepts and laws.  -->
-<!-- I want to articulate the concepts and laws that explain core phenomena we associate with intelligence. -->
-<!-- Furthermore, I want to understand how such concepts inform scientific models that can be tested. -->
-<!-- My research uses algorithms and mathematical theory, and I draw inspiraction from my peers across computer science, cognitive studies, and philosophy.  -->
-
 Much of my research frames quesitons within the reinforcement learning paradigm. I am currently thinking about [goal specification](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf), theoretically-sound algorithms for translating preferences to rewards, as well as how computation imposes limits on interacton and agency. Over the years I have studied a broad range of topics, including [meta-learning methods](https://arxiv.org/pdf/2406.19561) for efficient search, flexible architectures for [organizing unstructured sense data](https://arxiv.org/pdf/2106.09776), strategies for risk mitigation using [distributional RL](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf), as well as various applied problems in chip design, robotics, and aviation. Long ago I helped build the world's first [full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
+
+Here is a [formal bio](/intro/index.html) that can be used to introduce me.
 
 <h2 class="content-listing-header sans">NEWS</h2>
 **August, 2025:** Attending RLC in Edmonton, Alberta.  
 **July, 2025:** Talks at Caltech and JPL.  
-**June, 2025:** Attending RLDM at Trinity College in Dublin, Ireland.  
+**June, 2025:** Attending RLDM in Dublin, Ireland.  
 **March, 2025:** Steering committee for the second edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
 **March, 2025:** Talk at Openmind workshop in Edmonton, Alberta.  
 **January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [[pdf](https://arxiv.org/pdf/2501.16729)].  
