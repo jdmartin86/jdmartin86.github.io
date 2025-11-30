@@ -14,7 +14,12 @@ Much of my research frames quesitons within the reinforcement learning paradigm.
 Here is a [formal bio](/intro/index.html) that can be used to introduce me.
 
 <h2 class="content-listing-header sans">NEWS</h2>
-**August, 2025:** Attending RLC in Edmonton, Alberta.  
+**April, 2026:** Visiting DeepMind in London.  
+**April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
+**April, 2026:** Visiting Cambridge.  
+**January, 2026:** Talk at UTAR in Malaysia.  
+**December, 2025:** Attending [NeurIPS](https://neurips.cc/Conferences/2025) in San Diego, USA.  
+**August, 2025:** Attending [RLC](https://rl-conference.cc/2025/index.html) in Edmonton, Alberta.  
 **July, 2025:** Talks at Caltech and JPL.  
 **June, 2025:** Attending RLDM in Dublin, Ireland.  
 **March, 2025:** Steering committee for the second edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
