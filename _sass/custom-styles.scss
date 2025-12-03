@@ -1,0 +1,36 @@
+
+/* Sets the background color for the area *surrounding* the lifted page */
+html {
+    background-color: #f7f7f7;
+}
+
+body {
+    /* ----- Height & Layout Adjustment ----- */
+    /*
+     * min-height: 100% ensures the body expands to fill its parent (html),
+     * which is now 100% of the viewport, AND continues with the content.
+     */
+    min-height: 100vh; 
+    height: auto;
+    background-color: #fffff8; 
+    
+    /* Center and Max Width */
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 10em; /* Ensure content is padded inside the shadow */
+    
+    /* Optional: Use a final, large bottom padding to simulate the bottom margin
+       while keeping the box-shadow attached to the bottom of the content. */
+    padding-bottom: 40px; 
+
+    /* ----- Lifted Page Effect ----- */
+    box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.1), 
+        0 1px 3px rgba(0, 0, 0, 0.08), 
+        0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+article {
+    width: auto;
+    padding-right: 0rem;
+}

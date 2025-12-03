@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width
 title: Formal Introduction
 nav_exclude: true
 ---

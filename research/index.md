@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width
 title: Publications
 nav_order: 2
 ---
