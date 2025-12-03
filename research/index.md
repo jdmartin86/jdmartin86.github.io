@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Research
+title: Publications
 nav_order: 2
 ---
-
-My research aims to understand the mind through computation and mathematics. I believe fundamental work in this area can contribute to a future where AI systems are understandable, reliable, and safe---perhaps also one of greater rationality. Some of my favorite subjects to explore currently relate to reinforcement learning, goal specification, computation, and the philosophy of science.
-
+<!-- 
+My research aims to understand the mind through computation and mathematics. I believe fundamental work in this area can contribute to a future where AI systems are understandable, reliable, and safe---perhaps also one of greater rationality. Some of my favorite subjects to explore currently relate to reinforcement learning, goal specification, computation, and the philosophy of science. -->
 
 <h2 class="content-listing-header sans">Publications</h2>
 {% smalltext  'Joint first authorship is denoted by \*.' %}

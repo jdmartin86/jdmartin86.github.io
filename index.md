@@ -5,11 +5,13 @@ nav_order: 1
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 
-I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor of Computing Science at the University of Alberta.
+I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor at the University of Alberta. 
 
-My goal is to understand the computational principles behind both natural and artificial minds. I want to bring definition to the core phenomena we associate with intelligence. This means explaining how agents solve complex problems, acquire and represent knowledge, interact with their surroundings, and learn from their experiences. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy---to develop new algorithms and mathematical theories with meaningful empirical impact.
+I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, cognitive studies, and philosophy to develop algorithms and theories with empirical value.
 
-Much of my research frames quesitons within the reinforcement learning paradigm. I am currently thinking about [goal specification](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf), theoretically-sound algorithms for translating preferences to rewards, as well as how computation imposes limits on interacton and agency. Over the years I have studied a broad range of topics, including [meta-learning methods](https://arxiv.org/pdf/2406.19561) for efficient search, flexible architectures for [organizing unstructured sense data](https://arxiv.org/pdf/2106.09776), strategies for risk mitigation using [distributional RL](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf), as well as various applied problems in chip design, robotics, and aviation. Long ago I helped build the world's first [full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
+My research is typically framed with concepts from reinforcement learning. Currently, I am thinking about the relationship between computation and agency. Can learning agents leverage the dynamics of their environment for computational benefit? Does computation influence the range of an agent's experiences? 
+
+Over the years I have studied a broad range of topics: the expressivity of rewards ([link](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf)), meta-learning efficient planning strategies ([link](https://arxiv.org/pdf/2406.19561)), organizing unstructured sense data ([link](https://arxiv.org/pdf/2106.09776)), distributional RL ([link](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf)). I have also studied various applied problems in chip design, robotics, and aviation. Long ago I helped build [the world's first full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
 
 Here is a [formal bio](/intro/index.html) that can be used to introduce me.
 
