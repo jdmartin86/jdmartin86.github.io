@@ -4,16 +4,17 @@ title: About
 nav_order: 1
 ---
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
-
 I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor at the University of Alberta. 
 
-I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, cognitive studies, and philosophy to develop algorithms and theories with empirical value.
+I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop theories and algorithms.
 
 My research is typically framed with concepts from reinforcement learning. Currently, I am thinking about the relationship between computation and agency. Can learning agents leverage the dynamics of their environment for computational benefit? Does computation influence the range of an agent's experiences? 
 
-Over the years I have studied a broad range of topics: the expressivity of rewards ([link](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf)), meta-learning efficient planning strategies ([link](https://arxiv.org/pdf/2406.19561)), organizing unstructured sense data ([link](https://arxiv.org/pdf/2106.09776)), distributional RL ([link](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf)). I have also studied various applied problems in chip design, robotics, and aviation. Long ago I helped build [the world's first full-scale autonomous helicopter](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5).   
+Over the years, I have studied a broad range of topics: the expressivity of rewards ([link](https://proceedings.mlr.press/v202/bowling23a/bowling23a.pdf)), meta-learning efficient planning strategies ([link](https://arxiv.org/pdf/2406.19561)), organizing unstructured sense data ([link](https://arxiv.org/pdf/2106.09776)), distributional RL ([link](https://proceedings.mlr.press/v119/martin20a/martin20a.pdf)). I have also studied various applied problems in chip design, robotics, and aviation. Long ago, I helped build the world's first full-scale autonomous helicopter ([link](https://vtol.org/awards-and-contests/vertical-flight-society-award-winners?awardID=5)).  
 
-Here is a [formal bio](/intro/index.html) that can be used to introduce me.
+<!-- Used for spacing -->
+<h2 class="content-listing-header sans"></h2>  
+---
 
 <h2 class="content-listing-header sans">NEWS</h2>
 **April, 2026:** Visiting DeepMind in London.  
@@ -42,3 +43,9 @@ Here is a [formal bio](/intro/index.html) that can be used to introduce me.
 **April, 2023:** [Settling the Reward Hypothesis](https://openreview.net/pdf?id=GtoeseQjtY), accepted to ICML 2023 as an oral!  
 **March, 2023:** Two ICLR workshop papers, led by [Rafael Rafailov](https://rmrafailov.github.io): [[pdf-1](https://openreview.net/pdf?id=cH8XVu9hUV)], [[pdf-2](https://openreview.net/pdf?id=QPajRB7ISyB)].  
 **February, 2023:** In Barbados for the [RL Workshop on Lifelong Learning](https://barbados2023.rl-community.org).
+
+<!-- Used for spacing -->
+<h2 class="content-listing-header sans"></h2>  
+---
+<h2 class="content-listing-header sans">Formal Intro</h2>
+Here is a [formal bio](/intro/index.html) that can be used to introduce me.
