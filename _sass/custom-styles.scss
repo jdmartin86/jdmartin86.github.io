@@ -34,3 +34,35 @@ article {
     width: auto;
     padding-right: 0rem;
 }
+
+/* Style for the container */
+.collaborators-grid {
+    display: grid;
+    /* Create 3 columns of equal size. */
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 40px 20px; /* Space between rows and columns */
+    padding: 20px;
+    max-width: 900px; /* Optional: Keep the grid from getting too wide */
+    margin: 0 auto;
+}
+
+/* Style for each collaborator item */
+.collaborator-item {
+    text-align: center;
+}
+
+/* Style for the images */
+.collaborator-item img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Ensures image isn't distorted */
+    margin-bottom: 5px;
+}
+
+/* Media query for smaller screens (e.g., phones) */
+@media (max-width: 600px) {
+    .collaborators-grid {
+        /* On small screens, switch to 2 columns */
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
