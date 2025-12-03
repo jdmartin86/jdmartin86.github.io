@@ -32,7 +32,7 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 **December, 2024:** Spoke about embodiment at the Openmind retreat in Singapore.  
 **December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
 **October, 2024:** Talk at the [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
-**October, 2024:** Seattle Minds and Machines Talk: The Methodological Tangle of AI Research.  
+**October, 2024:** Seattle M&Ms Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** UofA Teatime Talk: The Methodological Tangle of AI Research.  
 **August, 2024:** Attending [RLC](https://rl-conference.cc/) in Amherst, Massachusetts.  
 **July, 2024:** New paper on Meta-Gradient Search Control: [[pdf](https://arxiv.org/pdf/2406.19561)].  
