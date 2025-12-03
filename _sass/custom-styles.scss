@@ -66,3 +66,53 @@ article {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+/* Style for the overall publication container */
+.pubitem {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Very light background for contrast */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05); /* Subtle shadow */
+}
+
+/* Style for the title */
+.pubtitle {
+    font-size: 1.2em; /* Slightly larger text */
+    font-weight: bold;
+    color: #333; /* Dark gray text */
+    margin-bottom: 5px;
+}
+
+/* Style for the authors */
+.pubauthors {
+    font-style: italic;
+    color: #666; /* Medium gray text */
+    margin-bottom: 5px;
+}
+
+/* Style for journal/conference info */
+.pubjournal {
+    font-size: 0.9em;
+    color: #888; /* Lighter gray text */
+    margin-bottom: 10px;
+}
+
+/* Style for the links section */
+.publinks a {
+    text-decoration: none; /* Remove underline from links */
+    color: #a00000; 
+    padding-right: 10px;
+}
+
+.publinks a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Custom style to make the current author bolder than the others */
+.pubauthors .current-author {
+    /* Set a font-weight higher than the standard 'bold' (which is usually 700) */
+    font-weight: 900; 
+    /* You could also add a color highlight if needed, but 900 will make it thicker */
+}
