@@ -38,7 +38,7 @@ html{
     font-size: 11px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
+    background-color: #f7f7f7;
   }
 
 @media screen and (min-width: 800px){ html{ font-size: 12px;} }
@@ -76,15 +76,49 @@ p > a { @if $link-style == underline
     }
   }
 
-body { width: 87.5%;
-       margin-left: auto;
-       margin-right: auto;
-       padding-left: 12.5%;
-       font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-       background-color: $bg-color;
-       color: $text-color;
-       max-width: 1400px;
-       counter-reset: sidenote-counter; }
+// body { width: 87.5%;
+//        margin-left: auto;
+//        margin-right: auto;
+//        margin: 0 auto; 
+//        padding-left: 12.5%;
+//        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+//        background-color: $bg-color;
+//        color: $text-color;
+//        max-width: 800px;
+//        counter-reset: sidenote-counter; }
+
+body {
+    /* ----- Box Model & Centering ----- */
+    
+    /* Center the block element and define max width for legibility */
+    max-width: 800px;
+    margin: 0 auto; 
+    
+    /* Use padding to create space around content inside the body element */
+    padding: 10em; 
+    padding-bottom: 40px; /* Specific adjustment for bottom spacing */
+    
+    /* ----- Height & Layout Adjustment ----- */
+    min-height: 100vh; /* Ensures the body covers at least the full viewport height */
+    height: auto;
+    
+    /* ----- Styling & Typography ----- */
+    /* Background color conflict resolved by using the specific SCSS variable 
+        from the first set, assuming this is desired for theme consistency. 
+        If you prefer the hardcoded value, use: background-color: #fffff8; */
+    background-color: $bg-color; 
+    color: $text-color; 
+    
+    font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    
+    /* ----- Effects & Counters ----- */
+    box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.1), 
+        0 1px 3px rgba(0, 0, 0, 0.08), 
+        0 10px 20px rgba(0, 0, 0, 0.2); /* For the "Lifted Page Effect" */
+        
+    counter-reset: sidenote-counter; /* Retains the counter setup */
+}
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
@@ -221,10 +255,9 @@ th, td{ font-size: 1.2rem;
 /* Basic Layout stuff --*/
 
 article { position: relative;
-          padding: 1
-
-          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
-
+          width: auto;
+          padding: 1rem 0rem 2.5rem 0rem;
+}
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
@@ -418,7 +451,8 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
+body.full-width, .content-listing, ul.content-listing li.listing{ 
+       width: 90%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 5%;
@@ -618,3 +652,5 @@ hr.slender {
   content: "\e60e";
 }
 /*-- End of Icomoon icon font section --*/
+
+// @import "custom-styles";
