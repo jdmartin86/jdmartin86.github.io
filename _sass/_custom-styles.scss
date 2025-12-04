@@ -1,0 +1,118 @@
+/* Any other SCSS code goes here */
+/* Sets the background color for the area *surrounding* the lifted page */
+html {
+    background-color: #f7f7f7;
+}
+
+body {
+    /* ----- Height & Layout Adjustment ----- */
+    /*
+     * min-height: 100% ensures the body expands to fill its parent (html),
+     * which is now 100% of the viewport, AND continues with the content.
+     */
+    min-height: 100vh; 
+    height: auto;
+    background-color: #fffff8; 
+    
+    /* Center and Max Width */
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 10em; /* Ensure content is padded inside the shadow */
+    
+    /* Optional: Use a final, large bottom padding to simulate the bottom margin
+       while keeping the box-shadow attached to the bottom of the content. */
+    padding-bottom: 40px; 
+
+    /* ----- Lifted Page Effect ----- */
+    box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.1), 
+        0 1px 3px rgba(0, 0, 0, 0.08), 
+        0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+article {
+    width: auto;
+    padding-right: 0rem;
+}
+
+/* Style for the container */
+.collaborators-grid {
+    display: grid;
+    /* Create 3 columns of equal size. */
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 40px 20px; /* Space between rows and columns */
+    padding: 20px;
+    max-width: 900px; /* Optional: Keep the grid from getting too wide */
+    margin: 0 auto;
+}
+
+/* Style for each collaborator item */
+.collaborator-item {
+    text-align: center;
+}
+
+/* Style for the images */
+.collaborator-item img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Ensures image isn't distorted */
+    margin-bottom: 5px;
+}
+
+/* Media query for smaller screens (e.g., phones) */
+@media (max-width: 600px) {
+    .collaborators-grid {
+        /* On small screens, switch to 2 columns */
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Style for the overall publication container */
+.pubitem {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Very light background for contrast */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05); /* Subtle shadow */
+}
+
+/* Style for the title */
+.pubtitle {
+    font-size: 1.2em; /* Slightly larger text */
+    font-weight: bold;
+    color: #333; /* Dark gray text */
+    margin-bottom: 5px;
+}
+
+/* Style for the authors */
+.pubauthors {
+    font-style: italic;
+    color: #666; /* Medium gray text */
+    margin-bottom: 5px;
+}
+
+/* Style for journal/conference info */
+.pubjournal {
+    font-size: 0.9em;
+    color: #888; /* Lighter gray text */
+    margin-bottom: 10px;
+}
+
+/* Style for the links section */
+.publinks a {
+    text-decoration: none; /* Remove underline from links */
+    color: #a00000; 
+    padding-right: 10px;
+}
+
+.publinks a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Custom style to make the current author bolder than the others */
+.pubauthors .current-author {
+    /* Set a font-weight higher than the standard 'bold' (which is usually 700) */
+    font-weight: 900; 
+    /* You could also add a color highlight if needed, but 900 will make it thicker */
+}
