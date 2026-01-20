@@ -6,7 +6,7 @@ nav_order: 1
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor at the University of Alberta. 
 
-I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop theories and algorithms.
+I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop new theories and algorithms.
 
 My research is typically framed with concepts from reinforcement learning. Currently, I am thinking about the relationship between computation and agency. Can learning agents leverage the dynamics of their environment for computational benefit? Does computation influence the range of an agent's experiences? 
 
@@ -17,9 +17,10 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 ---
 
 <h2 class="content-listing-header sans">NEWS</h2>
+**May, 2026:** Talk at the [Philosophy and RL Symposium](https://all.cs.umass.edu/PRL-Symposium/), UMass Amherst.  
 **April, 2026:** Visiting DeepMind in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
-**April, 2026:** Visiting Cambridge.  
+**April, 2026:** Visiting Cambridge, England.  
 **January, 2026:** Talk at UTAR in Malaysia.  
 **December, 2025:** Attending [NeurIPS](https://neurips.cc/Conferences/2025) in San Diego, USA.  
 **August, 2025:** Attending [RLC](https://rl-conference.cc/2025/index.html) in Edmonton, Alberta.  
