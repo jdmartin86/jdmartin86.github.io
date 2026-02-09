@@ -21,6 +21,7 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 **April, 2026:** Visiting DeepMind in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
 **April, 2026:** Visiting Cambridge, England.  
+**February, 2026:** AI Seminar at Amii, Edmonton.  
 **January, 2026:** Talk at UTAR in Malaysia.  
 **December, 2025:** Attending [NeurIPS](https://neurips.cc/Conferences/2025) in San Diego, USA.  
 **August, 2025:** Attending [RLC](https://rl-conference.cc/2025/index.html) in Edmonton, Alberta.  
