@@ -6,7 +6,7 @@ nav_order: 1
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor at the University of Alberta. 
 
-I want to understand how the mind works and bring definition to its core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop new theories and algorithms.
+I want to understand how artifical minds work and bring definition to their core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop new theories and algorithms.
 
 My research is typically framed with concepts from reinforcement learning. Currently, I am thinking about the relationship between computation and agency. Can learning agents leverage the dynamics of their environment for computational benefit? Does computation influence the range of an agent's experiences? 
 
@@ -21,6 +21,8 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 **April, 2026:** Visiting DeepMind in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
 **April, 2026:** Visiting Cambridge, England.  
+**April, 2026:** Steering committee for the third edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
+**March, 2026:** Talk at Noah's Ark Lab.  
 **February, 2026:** AI Seminar at Amii, Edmonton.  
 **January, 2026:** Talk at UTAR in Malaysia.  
 **December, 2025:** Attending [NeurIPS](https://neurips.cc/Conferences/2025) in San Diego, USA.  
@@ -31,7 +33,7 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 **March, 2025:** Talk at Openmind workshop in Edmonton, Alberta.  
 **January, 2025:** New paper led by [Fatima Davelouis](https://github.com/daveloui): [[pdf](https://arxiv.org/pdf/2501.16729)].  
 **January, 2025:** Co-organizing an RLDM workshop: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home).  
-**December, 2024:** Spoke about embodiment at the Openmind retreat in Singapore.  
+**December, 2024:** Embodiment panel at the Openmind retreat in Singapore.  
 **December, 2024:** Started as a Research Fellow at [Openmind](https://www.openmindresearch.org/).  
 **October, 2024:** Talk at the [Openmind](https://www.openmindresearch.org/) retreat in Banff, Alberta.  
 **October, 2024:** Seattle M&Ms Talk: The Methodological Tangle of AI Research.  
