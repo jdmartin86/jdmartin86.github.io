@@ -21,7 +21,7 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 **April, 2026:** Visiting DeepMind in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
 **April, 2026:** Visiting Cambridge, England.  
-**April, 2026:** New paper together with Fraser Mince, Esra'a Saleh, and Amy Pajak: [[pdf](https://arxiv.org/pdf/2604.08756)].  
+**April, 2026:** New paper with Fraser Mince, Esra'a Saleh, and Amy Pajak: [[pdf](https://arxiv.org/pdf/2604.08756)].  
 **April, 2026:** Steering committee for the third edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
 **March, 2026:** Talk at Noah's Ark Lab.  
 **February, 2026:** AI Seminar at Amii, Edmonton.  
