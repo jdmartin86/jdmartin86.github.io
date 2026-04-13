@@ -8,6 +8,20 @@ nav_order: 2
 {% smalltext  'Joint first authorship is denoted by \*.' %}
 
 <div class="pubitem">
+    <div class="pubtitle">Artifacts as Memory Beyond the Agent Boundary</div>
+    <div class="pubauthors">
+        <strong><span class="current-author">John D. Martin</span></strong><sup>*</sup>,
+        Fraser Mince<sup>*</sup>,  
+        Esra'a Saleh, Amy Pajak
+    </div>
+    <div class="pubjournal">ArXiv, 2026</div>
+    <div class="publinks">
+        <a href="https://arxiv.org/pdf/2604.08756">Paper</a> |
+        <a href="#">Details</a>
+    </div>
+</div>
+
+<div class="pubitem">
     <div class="pubtitle">Settling the Reward Hypothesis</div>
     <div class="pubauthors">
         Michael Bowling<sup>*</sup>, 
