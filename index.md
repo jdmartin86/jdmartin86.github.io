@@ -16,7 +16,7 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 <h2 class="content-listing-header sans"></h2>  
 ---
 
-<h2 class="content-listing-header sans">NEWS</h2>
+<h2 class="content-listing-header sans">ACTIVITY</h2>
 **May, 2026:** Talk at the [Philosophy and RL Symposium](https://all.cs.umass.edu/PRL-Symposium/), UMass Amherst.  
 **April, 2026:** Visiting DeepMind in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
