@@ -18,9 +18,9 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 
 <h2 class="content-listing-header sans">ACTIVITY</h2>
 **May, 2026:** Talk at the [Philosophy and RL Symposium](https://all.cs.umass.edu/PRL-Symposium/), UMass Amherst.  
-**April, 2026:** Visiting DeepMind in London.  
+**April, 2026:** Visiting DeepMind's Agency Team in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
-**April, 2026:** Visiting Cambridge, England.  
+**April, 2026:** Visiting [DAMTP](https://www.damtp.cam.ac.uk/) at Cambridge.  
 **April, 2026:** New paper with Fraser Mince, Esra'a Saleh, and Amy Pajak: [[pdf](https://arxiv.org/pdf/2604.08756)].  
 **April, 2026:** Steering committee for the third edition of [Finding the Frame](https://sites.google.com/view/findingtheframe/).  
 **March, 2026:** Talk at Noah's Ark Lab.  
