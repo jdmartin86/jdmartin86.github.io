@@ -6,7 +6,7 @@ nav_order: 1
 <!-- <img src="/assets/img/profile.png" alt="Profile" width="200" height="250" style="float: left;"> -->
 I am a Fellow of the [Openmind Research Institute](https://www.openmindresearch.org/) and an Adjunct Professor at the University of Alberta. 
 
-I want to understand how artifical minds work and bring definition to their core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop new theories and algorithms.
+I want to understand how artificial minds work and bring definition to their core phenomena. I draw inspiration from my peers across computer science, the cognitive studies, and philosophy to develop new theories and algorithms.
 
 My research is typically framed with concepts from reinforcement learning. Currently, I am thinking about the relationship between computation and agency. Can learning agents leverage the dynamics of their environment for computational benefit? Does computation influence the range of an agent's experiences? 
 
