@@ -17,6 +17,9 @@ Over the years, I have studied a broad range of topics: the expressivity of rewa
 ---
 
 <h2 class="content-listing-header sans">ACTIVITY</h2>
+**August, 2026:** Co-organizing [RLPH](https://rlph-workshop.github.io/).  
+**August, 2026:** Attending RLC in Montreal.  
+**August, 2026:** Talk at Mila.  
 **May, 2026:** Talk at the [Philosophy and RL Symposium](https://all.cs.umass.edu/PRL-Symposium/), UMass Amherst.  
 **April, 2026:** Visiting DeepMind's Agency Team in London.  
 **April, 2026:** Talk at the [Institute of Philosophy](https://www.ai-humanity-london.com/) in London.  
